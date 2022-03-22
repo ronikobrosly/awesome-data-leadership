@@ -8,3 +8,9 @@ Please contribute by opening PRs! ⚡️
 - [Hiring](#hiring)
 - [Culture](#culture)
 - [Impact](#impact)
+
+
+## Hiring
+|Author|Title|Year|
+|---|---|---|
+|Someone|[Something](#)|2022|
