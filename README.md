@@ -1,5 +1,5 @@
 # awesome-data-leadership 
-A curated list of awesome posts, videos, and articles on leading a data team (both small and large) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of awesome and useful posts, videos, and articles on leading a data team. This includes leadership at the middle-management, Director/VP, or C-suite level, for organizations both big and small. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Please contribute by opening PRs! ⚡️ 
 
@@ -11,7 +11,7 @@ Please contribute by opening PRs! ⚡️
 - [Strategy](#strategy)
 - [Agile](#agile)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles)
-- [ML/AI Within an Organization](#ML/AI-within-an-organization)
+- [ML/AI Within an Organization](#ML-AI-within-an-organization)
 - [Analytics Within an Organization](#analytics-within-an-organization)
 - [Business Intelligence Within an Organization](#business-intelligence-within-an-organization)
 
