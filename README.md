@@ -12,5 +12,5 @@ Please contribute by opening PRs! ⚡️
 
 ## Hiring
 |Author|Title|One-sentence summary|Year|
-|---|---|---|
+|---|---|---|---|
 |Someone|[Something](#)|This is about something|2022|
