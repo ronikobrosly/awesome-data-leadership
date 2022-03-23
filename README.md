@@ -12,8 +12,7 @@ Please contribute by opening PRs! ⚡️
 - [Agile](#agile)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles)
 - [ML/AI Within an Organization](#ML-AI-within-an-organization)
-- [Analytics Within an Organization](#analytics-within-an-organization)
-- [Business Intelligence Within an Organization](#business-intelligence-within-an-organization)
+- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization)
 
 
 ## Hiring
@@ -27,6 +26,8 @@ Author | Title | One-sentence summary | Year
 
 Author | Title | One-sentence summary | Year
 ---|---|---|---
+[Emily Thompson](https://www.linkedin.com/in/enthompson/) | [Growing Data Teams from Reactive to Influential](https://scientistemily.substack.com/p/reactive-proactive-influential?s=r) | Reactive data teams lead to low impact and attrition, so instead acknowledge if your team is reactive, assess reactivity quantitatively, focus on near-term wins for cultural change, and build longer-term foundational work into the team’s capacity | 2022
+[Prukalpa Sankar](https://www.linkedin.com/in/prukalpa) | [It’s Time for the Modern Data Culture Stack](https://humansofdata.atlan.com/2021/12/modern-data-culture-stack/) | We need a modern data culture stack: best practices, values, and cultural rituals that will help data people come together and collaborate effectively. | 2021
 
 
 ## Impact
@@ -34,6 +35,7 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [McKinsey](mckinsey.com) | [Ten red flags signaling your analytics program will fail.](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) | A list ranging from the executive team doesn't have a clear vision for it's analytics program to nobody knows the quantitative impact that analytics is providing | 2018
+
 
 ## Strategy
 
@@ -57,12 +59,9 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 
-## Analytics Within an Organization
+
+## BI and Analytics Within an Organization
 
 Author | Title | One-sentence summary | Year
 ---|---|---|---
-
-## Business Intelligence Within an Organization
-
-Author | Title | One-sentence summary | Year
----|---|---|---
+[Lenny Rachitsky](https://www.lennyrachitsky.com/) | [Choosing Your North Star Metric](https://future.a16z.com/north-star-metrics/) | Proposes metrics based on your type of business, recommends having a singular north star metric, and avoid using revenue as your metric. | 2021 
