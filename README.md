@@ -3,7 +3,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 
 Please contribute by opening PRs! ⚡️ 
 
-# Table of Contents
+# Topics
 
 - [Hiring](#hiring)
 - [Culture](#culture)
@@ -48,6 +48,8 @@ Author | Title | One-sentence summary | Year
 
 Author | Title | One-sentence summary | Year
 ---|---|---|---
+[Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [Agile Analytics, Part 1: The Good Stuff](https://locallyoptimistic.com/post/agile-analytics-p1/) | When it comes to data science and analytics, these aspects of the scrum work flow work well: acceptance criteria, pointing, two-week chunks (sprints), and explicit prioritization. | 2018
+
 
 ## Organization Structure and Job Titles
 
