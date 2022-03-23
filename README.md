@@ -25,57 +25,44 @@ Author | Title | One-sentence summary | Year
 
 ## Culture
 
-|Author|Title|One-sentence summary|Year|
-|---|---|---|---|
-|Someone|[Something](#)|This is about something|2022|
+Author | Title | One-sentence summary | Year
+---|---|---|---
 
 
 ## Impact
 
-|Author|Title|One-sentence summary|Year|
-|---|---|---|---|
-|Someone|[Something](#)|This is about something|2022|
-
-
+Author | Title | One-sentence summary | Year
+---|---|---|---
+[McKinsey](mckinsey.com) | [Ten red flags signaling your analytics program will fail.](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) | A list ranging from the executive team doesn't have a clear vision for it's analytics program to nobody knows the quantitative impact that analytics is providing | 2018
 
 ## Strategy
 
-|Author|Title|One-sentence summary|Year|
-|---|---|---|---|
-|Someone|[Something](#)|This is about something|2022|
-
+Author | Title | One-sentence summary | Year
+---|---|---|---
+[Prukalpa Sankar](https://www.linkedin.com/in/prukalpa) | [Data Advantage Matrix: A New Way to Think About Data Strategy](https://towardsdatascience.com/data-advantage-matrix-a-new-way-to-think-about-data-strategy-4178cd2f520a) | Break down your data advantage into four categories (e.g. operational, strategic, product, and business opportunity) and then assess what stage each of these is at (e.g. basic, intermediate, advanced) | 2021
 
 
 ## Agile
 
-|Author|Title|One-sentence summary|Year|
-|---|---|---|---|
-|Someone|[Something](#)|This is about something|2022|
-
+Author | Title | One-sentence summary | Year
+---|---|---|---
 
 ## Organization Structure and Job Titles
 
-|Author|Title|One-sentence summary|Year|
-|---|---|---|---|
-|Someone|[Something](#)|This is about something|2022|
-
+Author | Title | One-sentence summary | Year
+---|---|---|---
 
 ## ML/AI Within an Organization
 
-|Author|Title|One-sentence summary|Year|
-|---|---|---|---|
-|Someone|[Something](#)|This is about something|2022|
-
+Author | Title | One-sentence summary | Year
+---|---|---|---
 
 ## Analytics Within an Organization
 
-|Author|Title|One-sentence summary|Year|
-|---|---|---|---|
-|Someone|[Something](#)|This is about something|2022|
-
+Author | Title | One-sentence summary | Year
+---|---|---|---
 
 ## Business Intelligence Within an Organization
 
-|Author|Title|One-sentence summary|Year|
-|---|---|---|---|
-|Someone|[Something](#)|This is about something|2022|
+Author | Title | One-sentence summary | Year
+---|---|---|---
