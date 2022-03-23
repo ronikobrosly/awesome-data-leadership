@@ -8,6 +8,7 @@ Please contribute by opening PRs! ⚡️
 - [Hiring](#hiring)
 - [Culture](#culture)
 - [Impact](#impact)
+- [Strategy](#strategy)
 - [Agile](#agile)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles)
 
@@ -20,9 +21,37 @@ Please contribute by opening PRs! ⚡️
 
 ## Culture
 
+|Author|Title|One-sentence summary|Year|
+|---|---|---|---|
+|Someone|[Something](#)|This is about something|2022|
+
+
 ## Impact
+
+|Author|Title|One-sentence summary|Year|
+|---|---|---|---|
+|Someone|[Something](#)|This is about something|2022|
+
+
+
+## Strategy
+
+|Author|Title|One-sentence summary|Year|
+|---|---|---|---|
+|Someone|[Something](#)|This is about something|2022|
+
+
 
 ## Agile
 
+|Author|Title|One-sentence summary|Year|
+|---|---|---|---|
+|Someone|[Something](#)|This is about something|2022|
+
+
 ## Organization Structure and Job Titles
+
+|Author|Title|One-sentence summary|Year|
+|---|---|---|---|
+|Someone|[Something](#)|This is about something|2022|
 
