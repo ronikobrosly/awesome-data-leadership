@@ -9,6 +9,7 @@ Please contribute by opening PRs! ⚡️
 - [Culture](#culture)
 - [Impact](#impact)
 - [Agile](#agile)
+- [Organization Structure and Job Titles](#organization-structure-and-job-titles)
 
 
 ## Hiring
@@ -22,4 +23,6 @@ Please contribute by opening PRs! ⚡️
 ## Impact
 
 ## Agile
+
+## Organization Structure and Job Titles
 
