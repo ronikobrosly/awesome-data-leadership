@@ -19,7 +19,8 @@ Please contribute by opening PRs! ⚡️
 ## Hiring
 |Author|Title|One-sentence summary|Year|
 |---|---|---|---|
-|Someone|[Something](#)|This is about something|2022|
+|[Eli Goldberg](https://www.linkedin.com/in/eli-goldberg/)|[Hire better data scientists: A field guide for hiring managers new to data science.
+Part 1. Creating better job descriptions brings in better talent.](https://towardsdatascience.com/hire-better-data-scientists-a-field-guide-for-hiring-managers-new-to-data-science-a8e8fef7141a)|When hiring, highlight the "why you", desecribe opportunities instead of responsibilities, describe key actions and background experience needed not technologies, and proofread!|2020|
 
 
 ## Culture
