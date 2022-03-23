@@ -11,9 +11,9 @@ Please contribute by opening PRs! ⚡️
 - [Strategy](#strategy)
 - [Agile](#agile)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles)
-- [The Function of ML/AI](#the-function-of-ML/AI)
-- [The Function of Analytics](#the-function-of-analytics)
-- [The Function of Business Intelligence](#the-function-of-business-intelligence)
+- [ML/AI Within an Organization](#ML/AI-within-an-organization)
+- [Analytics Within an Organization](#analytics-within-an-organization)
+- [Business Intelligence Within an Organization](#business-intelligence-within-an-organization)
 
 
 ## Hiring
@@ -59,21 +59,21 @@ Please contribute by opening PRs! ⚡️
 |Someone|[Something](#)|This is about something|2022|
 
 
-## The Function of ML/AI
+## ML/AI Within an Organization
 
 |Author|Title|One-sentence summary|Year|
 |---|---|---|---|
 |Someone|[Something](#)|This is about something|2022|
 
 
-## The Function of Analytics
+## Analytics Within an Organization
 
 |Author|Title|One-sentence summary|Year|
 |---|---|---|---|
 |Someone|[Something](#)|This is about something|2022|
 
 
-## The Function of Business Intelligence
+## Business Intelligence Within an Organization
 
 |Author|Title|One-sentence summary|Year|
 |---|---|---|---|
