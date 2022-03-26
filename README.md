@@ -56,7 +56,7 @@ Author | Title | One-sentence summary | Year
 
 Author | Title | One-sentence summary | Year
 ---|---|---|---
-[Gunnar Morling](https://www.linkedin.com/in/gunnar-morling-2b44b7229) | [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/) |  | 2022
+[Gunnar Morling](https://www.linkedin.com/in/gunnar-morling-2b44b7229) | [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/) | There should be a hierachy of effort in reviewing code, where more effort is spent on core concepts, how performant code is, and documentation, with less effort on test quality (though of course tests are important) and syntax. | 2022
 
 
 ## Organization Structure and Job Titles
