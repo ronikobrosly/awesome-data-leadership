@@ -10,6 +10,7 @@ Please contribute by opening PRs! ⚡️
 - [Impact](#impact)
 - [Strategy](#strategy)
 - [Agile](#agile)
+- [Code Review](#code-review)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles)
 - [ML/AI Within an Organization](#ML-AI-within-an-organization)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization)
@@ -49,6 +50,13 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [Agile Analytics, Part 1: The Good Stuff](https://locallyoptimistic.com/post/agile-analytics-p1/) | When it comes to data science and analytics, these aspects of the scrum work flow work well: acceptance criteria, pointing, two-week chunks (sprints), and explicit prioritization. | 2018
+
+
+## Code Review
+
+Author | Title | One-sentence summary | Year
+---|---|---|---
+[Gunnar Morling](https://www.linkedin.com/in/gunnar-morling-2b44b7229) | [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/) |  | 2022
 
 
 ## Organization Structure and Job Titles
