@@ -36,6 +36,7 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [McKinsey](mckinsey.com) | [Ten red flags signaling your analytics program will fail.](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) | A list ranging from the executive team doesn't have a clear vision for it's analytics program to nobody knows the quantitative impact that analytics is providing | 2018
+[Erik Bernhardsson](https://www.linkedin.com/in/erikbern/) | [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) | A story about a fictional company that became more data-driven and how it was done. | 2021
 
 
 ## Strategy
