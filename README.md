@@ -65,6 +65,7 @@ Author | Title | One-sentence summary | Year
 
 Author | Title | One-sentence summary | Year
 ---|---|---|---
+[Rob Dearborn](https://www.linkedin.com/in/rfdearborn/) | [Organizing and scaling an effective data team](https://www.robdearborn.com/2022/03/13/organizing-and-scaling-an-effective-data-team/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_379) | General guidelines on what a properly-structured data team should look like, with describes ranging from 1-person data team to 32+ person team. | 2022
 
 ## ML/AI Within an Organization
 
