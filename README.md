@@ -29,6 +29,7 @@ Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Emily Thompson](https://www.linkedin.com/in/enthompson/) | [Growing Data Teams from Reactive to Influential](https://scientistemily.substack.com/p/reactive-proactive-influential?s=r) | Reactive data teams lead to low impact and attrition, so instead acknowledge if your team is reactive, assess reactivity quantitatively, focus on near-term wins for cultural change, and build longer-term foundational work into the team’s capacity | 2022
 [Prukalpa Sankar](https://www.linkedin.com/in/prukalpa) | [It’s Time for the Modern Data Culture Stack](https://humansofdata.atlan.com/2021/12/modern-data-culture-stack/) | We need a modern data culture stack: best practices, values, and cultural rituals that will help data people come together and collaborate effectively. | 2021
+[Kuba Niechcial](https://www.linkedin.com/in/jakubniechcial/) | [How to set goals for engineers?](https://engineering-manager.com/2018-04-12/how-to-set-goals-for-engineers) | Provides some examples of good engineer personnel goals and things to keep in mind (e.g. KPIs should not be personal goals). | 2021
 
 
 ## Impact
