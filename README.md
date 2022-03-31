@@ -73,7 +73,7 @@ Author | Title | One-sentence summary | Year
 
 Author | Title | One-sentence summary | Year
 ---|---|---|---
-
+[Monica Rogati](https://www.linkedin.com/in/mrogati/) | [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) | Before you can fully get value out of ML/AI in an organization, it is critical to have foundational data needs met (i.e. good data collection processes, checks, and analytics). | 2017
 
 ## BI and Analytics Within an Organization
 
