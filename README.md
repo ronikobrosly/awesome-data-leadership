@@ -54,6 +54,9 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [Agile Analytics, Part 1: The Good Stuff](https://locallyoptimistic.com/post/agile-analytics-p1/) | When it comes to data science and analytics, these aspects of the scrum work flow work well: acceptance criteria, pointing, two-week chunks (sprints), and explicit prioritization. | 2018
+[Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [Agile Analytics, Part 2: The Bad Stuff](https://locallyoptimistic.com/post/agile-analytics-p2/) | Some aspects of agile don't work so well with data teams, these include: "The fortuitous finding", exploratory data analysis needs, product ownership / story-writing, and business-as-usual support. | 2018
+[Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [Agile Analytics, Part 3: The Adjustments](https://locallyoptimistic.com/post/agile-analytics-p3/) | Adjustments are suggested for agile to work well on a data team: time-bound spikes for research, build in slack time for exploration, acceptance criteria includes “write the next story”, peer-review instead of sprint-review. | 2018
+
 
 
 ## Code Review
