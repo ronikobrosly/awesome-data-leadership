@@ -14,6 +14,7 @@ Please contribute by opening PRs! ⚡️
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles)
 - [ML/AI Within an Organization](#ML-AI-within-an-organization)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization)
+- [Management Skills](#management-skills)
 
 
 ## Hiring
@@ -79,3 +80,10 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Lenny Rachitsky](https://www.lennyrachitsky.com/) | [Choosing Your North Star Metric](https://future.a16z.com/north-star-metrics/) | Proposes metrics based on your type of business, recommends having a singular north star metric, and avoid using revenue as your metric. | 2021 
+
+
+## Management Skills
+
+Author | Title | One-sentence summary | Year
+---|---|---|---
+[David Loftesness](https://www.linkedin.com/in/dloftesness) | [The Engineer to Manager Transition, by Former Twitter Director of Engineering](https://www.youtube.com/watch?v=qaHEy1I2M5Q&t=793s) | Talks about an engineering management "event loop", where you touch base on people, projects, process, and self on daily, weekly, and monthly basis. | 2015
