@@ -1,5 +1,5 @@
 # awesome-data-leadership 
-A curated list of awesome and useful posts, videos, and articles on leading a data team. This includes leadership at the middle-management, Director/VP, or C-suite level, for organizations both big and small. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of awesome and useful posts, videos, and articles on leading a data team. This includes leadership at the middle-management, Director/VP, or C-suite level, for organizations both big and small. A few relevant engineering management articles are sprinkled in. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Please contribute by opening PRs! ⚡️ 
 
