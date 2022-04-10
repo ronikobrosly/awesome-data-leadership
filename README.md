@@ -23,6 +23,9 @@ Author | Title | One-sentence summary | Year
 [Eli Goldberg](https://www.linkedin.com/in/eli-goldberg/) | [Hire better data scientists: A field guide for hiring managers new to data science. Part 1. Creating better job descriptions brings in better talent.](https://towardsdatascience.com/hire-better-data-scientists-a-field-guide-for-hiring-managers-new-to-data-science-a8e8fef7141a) | When hiring, highlight the "why you", desecribe opportunities instead of responsibilities, describe key actions and background experience needed not technologies, and proofread! | 2020
 [Eli Goldberg](https://www.linkedin.com/in/eli-goldberg/) | [Hire better data scientists: A field guide for hiring managers new to data science Part 2. Create a clear interviewing process.](https://towardsdatascience.com/hire-better-data-scientists-a-field-guide-for-hiring-managers-new-to-data-science-388d174a96df) | Make time for hiring and use your shift in priorities to your advantage, don't "wing it", write your process down and engineer it to be data driven, and modify the process not your adherence to it. | 2020 
 [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz) | [Hiring (and Retaining) a Diverse Engineering Team](https://blog.pragmaticengineer.com/hiring-a-diverse-engineering-team/) | Stories from six engineering leaders who succeeded in building and growing diverse teams | 2021
+Reddit | [“Are we being too harsh on junior candidates?”](https://www.reddit.com/r/MachineLearning/comments/tss076/d_are_we_being_too_harsh_on_junior_candidates/) | Reddit thread discussing expectations of junior ML job candidates | 2022
+
+
 
 
 ## Culture
@@ -78,6 +81,10 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Monica Rogati](https://www.linkedin.com/in/mrogati/) | [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) | Before you can fully get value out of ML/AI in an organization, it is critical to have foundational data needs met (i.e. good data collection processes, checks, and analytics). | 2017
+[Mario Perrakis](https://uk.linkedin.com/in/marios-perrakis-88804bb2) | [“The “0 / 1 / Done” Strategy for Data Science”](https://medium.com/news-uk-technology/the-0-1-done-strategy-for-data-science-3c1737de14b3) | A description for what a DS org should aspire to: 0-day handovers facilitated by great documentation and code, 1-day prototypes enabled by good tooling and good knowledge, and a clear definition of “done”. | 2022
+[Thomas Redman](https://www.linkedin.com/in/tomredman) | [“Your Data Initiatives Can’t Just Be for Data Scientists”](https://hbr.org/2022/03/your-data-initiatives-cant-just-be-for-data-scientists?utm_campaign=Data_Elixir&utm_source=Data_Elixir_381) | Describes the tole and importance of non-data experts in DS projects: collaborators, customers, and as creators of the data. | 2022
+
+
 
 ## BI and Analytics Within an Organization
 
