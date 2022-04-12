@@ -99,6 +99,7 @@ Author | Title | One-sentence summary | Year
 [Lenny Rachitsky](https://www.lennyrachitsky.com/) | [Choosing Your North Star Metric](https://future.a16z.com/north-star-metrics/) | Proposes metrics based on your type of business, recommends having a singular north star metric, and avoid using revenue as your metric. | 2021 
 [Ron Berman](https://www.linkedin.com/in/ronberman/) | [“The Value of Descriptive Analytics: Evidence from Online Retailers”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3745748) | The authors estimate an increase of 4%–10% in average weekly revenues post-adoption associated with the adoption of descriptive analytics among online retailers. | 2020
 [Roger M. Stein](https://www.rogermstein.com/) | ["Why Managing Data Scientists Is Different"](https://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/) | Two challenges in managing data scientists: (1) managing a data research effort tends to be a dynamic and self-correcting process in which it is difficult to plan either a project’s timing or final outcomes, and (2) analytics is highly sensitive to time, cost, and quality tradeoffs. | 2015
+[Eric Colson](https://www.linkedin.com/in/ecolson/) | ["The Sobering Truth about the Impact of your Business Ideas"](https://multithreaded.stitchfix.com/blog/2021/11/04/sobering-truth/) | The vast majority of business ideas fail to generate a positive impact, and this underscores the value of measuring impact, collecting data, and testing. | 2021
 
 
 ## Management Skills
