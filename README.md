@@ -107,3 +107,5 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [David Loftesness](https://www.linkedin.com/in/dloftesness) | [The Engineer to Manager Transition, by Former Twitter Director of Engineering](https://www.youtube.com/watch?v=qaHEy1I2M5Q&t=793s) | Talks about an engineering management "event loop", where you touch base on people, projects, process, and self on daily, weekly, and monthly basis. | 2015
+[The Institute of Leadership & Management](https://www.institutelm.com/) | ["Spotlight on Leadership Styles"](https://www.institutelm.com/learning/leadership-framework/authenticity/self-awareness/spotlight-on-leadership-styles.html) | Describes a set of leadership/management styles including pace-setting, democratic, laissez-faire, and more. | 2018
+
