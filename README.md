@@ -28,7 +28,6 @@ Author | Title | One-sentence summary | Year
 [Farhan Thawar](https://www.linkedin.com/in/fnthawar/?originalSubdomain=ca) | [VP of Engineering hiring cheatsheet](https://notion.notion.site/VP-of-Engineering-hiring-cheatsheet-f7824eb3f60748bb997f9b9b14c073a5) | A guide for assessing a candidate for a engineering or data leadership role: provides good and bad responses to questions. | 2022
 
 
-
 ## Culture
 
 Author | Title | One-sentence summary | Year
@@ -37,6 +36,8 @@ Author | Title | One-sentence summary | Year
 [Prukalpa Sankar](https://www.linkedin.com/in/prukalpa) | [It’s Time for the Modern Data Culture Stack](https://humansofdata.atlan.com/2021/12/modern-data-culture-stack/) | We need a modern data culture stack: best practices, values, and cultural rituals that will help data people come together and collaborate effectively. | 2021
 [Kuba Niechcial](https://www.linkedin.com/in/jakubniechcial/) | [How to set goals for engineers?](https://engineering-manager.com/2018-04-12/how-to-set-goals-for-engineers) | Provides some examples of good engineer personnel goals and things to keep in mind (e.g. KPIs should not be personal goals). | 2021
 [Jacob Kaplan-Moss](https://www.linkedin.com/in/jacobian/) | [“Exit Interviews Are a Trap”](https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/?utm_source=hackernewsletter&utm_medium=email&utm_term=working) | Rethinking the exit interview: there is very little upside (unlikely things will change) and potentially significant downside (bad blood, retracted references, malicious actions by employer, etc. | 2022
+[Christoph Neijenhuis](https://www.linkedin.com/in/christoph-neijenhuis-9268aa169/) | [How to stop shrinkage in engineering teams](https://leaddev.com/hiring-onboarding-retention/how-stop-shrinkage-engineering-teams) | The journey to stopping shrinkage in engineering teams is long and rarely straightforward, but there are practical things leaders can do to take control of the chaos, from taking steps to get out of survival mode and tackling problems around culture to involving teams in the development of a solid technical strategy. | 2022
+
 
 
 ## Impact
@@ -81,7 +82,8 @@ Author | Title | One-sentence summary | Year
 [Brittany Bennett](https://www.linkedin.com/in/thebbennett/) | [Building Powerful Data Teams: On Investing in Junior Talent](https://www.brittanybennett.com/post/building-powerful-data-teams-on-investing-in-junior-talent) | Provides suggestions on how developing junior talent: blocking off time for personal development, celebrating this blocked off time, hiring tutors, and more. | 2021
 [Eric Colson](https://www.linkedin.com/in/ecolson/) | ["Beware the data science pin factory: The power of the full-stack data science generalist and the perils of division of labor through function"](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) | Beware specialization in data science (data science is not to execute. Rather, the goal is to learn and develop profound new business capabilities), as there are costs to specialization. | 2019
 [Chuong Do](https://www.linkedin.com/in/chuongdo/) | ["What is the most effective way to structure a data science team?"](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) | Covers how should data scientist roles be defined (analysis vs building), where should data scientists report (centralized vs decentralized), where should the data science function live (engineering org vs product org vs independent consultancy), and what should an organization do to set up data science for success. | 2017
-[Anna Filippova](https://www.linkedin.com/in/annafilippova/) | ["Data teams: embedded or centralized? Reactive or self-directed?"](https://roundup.getdbt.com/p/data-teams-embedded-or-centralized?utm_medium=email&utm_campaign=cta&s=r) | There are three common models of how data teams are structured, each with their drawbacks and advantages: centralized, embedded, and hybrid. | 2022
+[Mikkel Dengsøe](https://www.linkedin.com/in/mikkeldengsoe/) | ["Data team structure: embedded or centralised?"](https://mikkeldengsoe.substack.com/p/data-team-structure-embedded-or-centralised?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383&s=r) | There are three common models of how data teams are structured, each with their drawbacks and advantages: centralized, embedded, and hybrid. | 2022
+
 
 ## ML and AI Within an Organization
 
@@ -91,7 +93,6 @@ Author | Title | One-sentence summary | Year
 [Mario Perrakis](https://uk.linkedin.com/in/marios-perrakis-88804bb2) | [“The “0 / 1 / Done” Strategy for Data Science”](https://medium.com/news-uk-technology/the-0-1-done-strategy-for-data-science-3c1737de14b3) | A description for what a DS org should aspire to: 0-day handovers facilitated by great documentation and code, 1-day prototypes enabled by good tooling and good knowledge, and a clear definition of “done”. | 2022
 [Thomas Redman](https://www.linkedin.com/in/tomredman) | [“Your Data Initiatives Can’t Just Be for Data Scientists”](https://hbr.org/2022/03/your-data-initiatives-cant-just-be-for-data-scientists?utm_campaign=Data_Elixir&utm_source=Data_Elixir_381) | Describes the tole and importance of non-data experts in DS projects: collaborators, customers, and as creators of the data. | 2022
 [Natassha Selvaraj](https://www.linkedin.com/in/natassha-selvaraj-33430717a/?originalSubdomain=my) | [“Why Are So Many Data Scientists Quitting Their Jobs?”](https://www.kdnuggets.com/2022/03/many-data-scientists-quitting-jobs.html) | Two primary factors drive a number of new data scientists out of the profession: a mis-match between employer and employee expectations around data science work and the general difficulty of ML to add clear business value. | 2022
-
 
 
 ## BI and Analytics Within an Organization
