@@ -26,6 +26,7 @@ Author | Title | One-sentence summary | Year
 [Reddit](https://www.reddit.com) | [“Are we being too harsh on junior candidates?”](https://www.reddit.com/r/MachineLearning/comments/tss076/d_are_we_being_too_harsh_on_junior_candidates/) | Reddit thread discussing expectations of junior ML job candidates | 2022
 [Hacker News](https://news.ycombinator.com/) | [“When did 7 interviews become normal”](https://news.ycombinator.com/item?id=30889019&utm_source=hackernewsletter&utm_medium=email&utm_term=working) | A “Ask HN” forum question around the topic of over-interviewing | 2022
 [Farhan Thawar](https://www.linkedin.com/in/fnthawar/?originalSubdomain=ca) | [VP of Engineering hiring cheatsheet](https://notion.notion.site/VP-of-Engineering-hiring-cheatsheet-f7824eb3f60748bb997f9b9b14c073a5) | A guide for assessing a candidate for a engineering or data leadership role: provides good and bad responses to questions. | 2022
+[Freaking Rectange Blog](https://freakingrectangle.wordpress.com/) | [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/) | When hiring for data engineering, analytics, data science, or ML Engineering roles, it would be better to have candidates try to read code instead of writing it (it can be neutral interview-only code). | 2022
 
 
 ## Culture
