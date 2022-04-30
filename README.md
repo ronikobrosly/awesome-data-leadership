@@ -28,6 +28,7 @@ Author | Title | One-sentence summary | Year
 [Farhan Thawar](https://www.linkedin.com/in/fnthawar/?originalSubdomain=ca) | [VP of Engineering hiring cheatsheet](https://notion.notion.site/VP-of-Engineering-hiring-cheatsheet-f7824eb3f60748bb997f9b9b14c073a5) | A guide for assessing a candidate for a engineering or data leadership role: provides good and bad responses to questions. | 2022
 [Freaking Rectange Blog](https://freakingrectangle.wordpress.com/) | [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/) | When hiring for data engineering, analytics, data science, or ML Engineering roles, it would be better to have candidates try to read code instead of writing it (it can be neutral interview-only code). | 2022
 [Emily Thompson](https://www.linkedin.com/in/enthompson/) | [Hiring Data Scientists With Intention](https://scientistemily.substack.com/p/inclusive-data-science-hiring?s=r) | Gives guidance on: writing a focused job description, being strategic in sourcing, and designing a structured interview process so that you can be consistent in evaluating candidates. | 2022
+[Nate Rosidi](https://www.linkedin.com/in/nathanrosidi/) | [15 Python Coding Interview Questions You Must Know For Data Science](https://www.kdnuggets.com/2022/04/15-python-coding-interview-questions-must-know-data-science.html) | Provides 15 examples of testing basic python dta manipulation skills for interviews.  | 2022
 
 
 ## Culture
