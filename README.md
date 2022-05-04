@@ -50,7 +50,7 @@ Author | Title | One-sentence summary | Year
 ---|---|---|---
 [McKinsey](mckinsey.com) | [Ten red flags signaling your analytics program will fail.](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) | A list ranging from the executive team doesn't have a clear vision for it's analytics program to nobody knows the quantitative impact that analytics is providing | 2018
 [Erik Bernhardsson](https://www.linkedin.com/in/erikbern/) | [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) | A story about a fictional company that became more data-driven and how it was done. | 2021
-
+[Abinaya Sundarraj](https://www.linkedin.com/in/abinaya-sundarraj) | [Data Management: How to Stay on Top of Your Customer’s Mind?](https://www.kdnuggets.com/2022/04/data-management-stay-top-customer-mind.html) | Describes the virtues and challenges around achieving a customer-centric, data perspective in a business. | 2022
 
 ## Strategy
 
@@ -88,7 +88,7 @@ Author | Title | One-sentence summary | Year
 [Chuong Do](https://www.linkedin.com/in/chuongdo/) | ["What is the most effective way to structure a data science team?"](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) | Covers how should data scientist roles be defined (analysis vs building), where should data scientists report (centralized vs decentralized), where should the data science function live (engineering org vs product org vs independent consultancy), and what should an organization do to set up data science for success. | 2017
 [Mikkel Dengsøe](https://www.linkedin.com/in/mikkeldengsoe/) | ["Data team structure: embedded or centralised?"](https://mikkeldengsoe.substack.com/p/data-team-structure-embedded-or-centralised?utm_campaign=Data_Elixir&utm_source=Data_Elixir_383&s=r) | There are three common models of how data teams are structured, each with their drawbacks and advantages: centralized, embedded, and hybrid. | 2022
 [Randy Bean](https://www.linkedin.com/in/randybeannvp/) | [Chief Data Officers Struggle To Make A Business Impact](https://www.forbes.com/sites/ciocentral/2019/06/24/chief-data-officers-struggle-to-make-a-business-impact/?sh=5f7b6d4af1a4) | There is widespread disparity of opinion on what defines a successful Chief Data Officer, so it makes sense that only CDOs are poised for success  according to a recent Gartner report. | 2019
-
+[Matthew Mayo](https://www.linkedin.com/in/mattmayo13) | [Data Scientist, Data Engineer & Other Data Careers, Explained](https://www.kdnuggets.com/2021/05/data-scientist-data-engineer-data-careers-explained.html) | Explanations of various titles such as Data Architect, Data Engineer, Analyst, ML Engineer, and Data Scientist | 2022
 
 ## ML and AI Within an Organization
 
