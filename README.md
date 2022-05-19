@@ -54,6 +54,7 @@ Author | Title | One-sentence summary | Year
 [Erik Bernhardsson](https://www.linkedin.com/in/erikbern/) | [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) | A story about a fictional company that became more data-driven and how it was done. | 2021
 [Abinaya Sundarraj](https://www.linkedin.com/in/abinaya-sundarraj) | [Data Management: How to Stay on Top of Your Customer’s Mind?](https://www.kdnuggets.com/2022/04/data-management-stay-top-customer-mind.html) | Describes the virtues and challenges around achieving a customer-centric, data perspective in a business. | 2022
 [Mikkel Dengsøe](https://www.linkedin.com/in/mikkeldengsoe/) | [How to measure data quality: Practical guidelines for how to measure quality, engagement and productivity in a data team](https://mikkeldengsoe.substack.com/p/measuring-data) | Provides some thoughts around how to evaluate your data team and suggests three categories of metrics: quality, productivity, and engagement. | 2022
+[Sarah Krasnik](https://sarahmk125.medium.com/) | [Choosing a Data Catalog](https://sarahsnewsletter.substack.com/p/choosing-a-data-catalog?s=r) | Although not technically on management, this tackles the critical topic of documentation, dictionaries, knowledge repos and such, which are critically important for a data org. | 2022
 
 
 ## Strategy
