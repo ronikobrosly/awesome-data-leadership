@@ -78,6 +78,7 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Gunnar Morling](https://www.linkedin.com/in/gunnar-morling-2b44b7229) | [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/) | There should be a hierachy of effort in reviewing code, where more effort is spent on core concepts, how performant code is, and documentation, with less effort on test quality (though of course tests are important) and syntax. | 2022
+[Tim Hopper](https://www.linkedin.com/in/tdhopper/) | [Code Review Guidelines for Data Science Teams](https://tdhopper.com/blog/code-review-guidelines) | In the context of data team, desecribes what a code review should achieve, bullets to carry out pull requests, and some links to additional reading. | 2020
 
 
 ## Organization Structure and Job Titles
