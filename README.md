@@ -107,6 +107,7 @@ Author | Title | One-sentence summary | Year
 [Thomas Redman](https://www.linkedin.com/in/tomredman) | [“Your Data Initiatives Can’t Just Be for Data Scientists”](https://hbr.org/2022/03/your-data-initiatives-cant-just-be-for-data-scientists?utm_campaign=Data_Elixir&utm_source=Data_Elixir_381) | Describes the tole and importance of non-data experts in DS projects: collaborators, customers, and as creators of the data. | 2022
 [Natassha Selvaraj](https://www.linkedin.com/in/natassha-selvaraj-33430717a/?originalSubdomain=my) | [“Why Are So Many Data Scientists Quitting Their Jobs?”](https://www.kdnuggets.com/2022/03/many-data-scientists-quitting-jobs.html) | Two primary factors drive a number of new data scientists out of the profession: a mis-match between employer and employee expectations around data science work and the general difficulty of ML to add clear business value. | 2022
 [Pete Warden](https://www.linkedin.com/in/petewarden/) | [How Should you Protect your Machine Learning Models and IP?](https://petewarden.com/2022/05/08/how-should-you-protect-your-machine-learning-models-and-ip/) | Some thoughts on the importance of protecting IP in a ML org. | 2022
+[Jeff Saltz](https://www.linkedin.com/in/jeffsaltz/) | [Managing Machine Learning Projects](https://www.datascience-pm.com/machine-learning-project-management/) | Touches on difficulties of managing ML projects and how the management process differs from standard software development. | 2021
 
 
 ## BI and Analytics Within an Organization
