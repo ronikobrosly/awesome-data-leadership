@@ -44,6 +44,7 @@ Author | Title | One-sentence summary | Year
 [Christoph Neijenhuis](https://www.linkedin.com/in/christoph-neijenhuis-9268aa169/) | [How to stop shrinkage in engineering teams](https://leaddev.com/hiring-onboarding-retention/how-stop-shrinkage-engineering-teams) | The journey to stopping shrinkage in engineering teams is long and rarely straightforward, but there are practical things leaders can do to take control of the chaos, from taking steps to get out of survival mode and tackling problems around culture to involving teams in the development of a solid technical strategy. | 2022
 [Caitlin Moorman](https://www.linkedin.com/in/caitlin-moorman/) | [Proficiency v. Creativity](https://locallyoptimistic.com/post/proficiency_v_creativity/) | It is critical to find a balance between open-endedness/opportunities for creativity and standardized rigor when leading a data function. | 2020
 [Shimin Zhang](https://www.linkedin.com/in/shiminzhang/) | [Why a Meeting Costs More than a MacBook Pro – the Business Case for Fewer Developers in Meetings](https://blog.shimin.io/the-business-case-for-fewer-developer-meetings/) | Describes the opportunity cost of having all developers or data engineers attending meetings and describes ways to recoup this. | 2022
+[David Waller](https://www.linkedin.com/in/davidbwaller/) | [10 Steps to Creating a Data-Driven Culture](https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture) | Details some steps for working towards a data-driven culture, from taking care in choosing metrics to quantifying uncertainty. | 2020
 
 
 
