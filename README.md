@@ -64,7 +64,7 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Prukalpa Sankar](https://www.linkedin.com/in/prukalpa) | [Data Advantage Matrix: A New Way to Think About Data Strategy](https://towardsdatascience.com/data-advantage-matrix-a-new-way-to-think-about-data-strategy-4178cd2f520a) | Break down your data advantage into four categories (e.g. operational, strategic, product, and business opportunity) and then assess what stage each of these is at (e.g. basic, intermediate, advanced) | 2021
-
+[Ilan Man](https://www.linkedin.com/in/ilanman/) | [Creating a Data Road Map](https://locallyoptimistic.com/post/roadmap/) | Provides suggestions for what factors to consider when thinking about a data roadmap or data strategy (e.g. identifying the audience, set up the scaffolding, etc.) .  | 2019
 
 ## Project Management
 
