@@ -126,6 +126,7 @@ Author | Title | One-sentence summary | Year
 [Joe McFarren](https://www.linkedin.com/in/sjmcfarren/) | [5 Tips for Managing a Successful Analytics Project](https://www.phdata.io/blog/5-tips-for-managing-a-successful-analytics-project/) | In the context of analytics consulting it is important to: clearly establish project scope, be in constant communication, determine a line of escalation, monitor work with tracking apps, and track finances. | 2022
 [Erik Balodis](https://www.linkedin.com/in/erikbalodis/) | [A Framework for Embedding Decision Intelligence into your Organization](https://towardsdatascience.com/a-framework-for-embedding-decision-intelligence-into-your-organization-f104947651ae) | Provides a high-level overview of how to infuse decision-intelligence into an organization, along with some additional reading sources. | 2022
 [Nelson Auner](https://www.linkedin.com/in/nelsonauner/) | [Building an Analytics Stack in 2020](https://locallyoptimistic.com/post/0-to-60-analytics-stack/) | Gives an overview of the modern analytics stack via three buckets: a data-moving tool (ETL), a data warehouse to store the data, and a BI layer to analyze the data. | 2020
+[Mode](https://mode.com/) | [The Data Team’s Guide for Marketing Metrics](https://mode.com/data-teams-guide-for-marketing-metrics/) | Good overview of the landscape of metrics used in data marketing work (as well as information on the technical side of it). | 2022
 
 
 ## Management Skills
