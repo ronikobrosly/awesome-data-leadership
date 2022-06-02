@@ -57,6 +57,7 @@ Author | Title | One-sentence summary | Year
 [Abinaya Sundarraj](https://www.linkedin.com/in/abinaya-sundarraj) | [Data Management: How to Stay on Top of Your Customer’s Mind?](https://www.kdnuggets.com/2022/04/data-management-stay-top-customer-mind.html) | Describes the virtues and challenges around achieving a customer-centric, data perspective in a business. | 2022
 [Mikkel Dengsøe](https://www.linkedin.com/in/mikkeldengsoe/) | [How to measure data quality: Practical guidelines for how to measure quality, engagement and productivity in a data team](https://mikkeldengsoe.substack.com/p/measuring-data) | Provides some thoughts around how to evaluate your data team and suggests three categories of metrics: quality, productivity, and engagement. | 2022
 [Sarah Krasnik](https://sarahmk125.medium.com/) | [Choosing a Data Catalog](https://sarahsnewsletter.substack.com/p/choosing-a-data-catalog?s=r) | Although not technically on management, this tackles the critical topic of documentation, dictionaries, knowledge repos and such, which are critically important for a data org. | 2022
+[Chad Sanderson](https://www.linkedin.com/in/chad-sanderson/) | [The Existential Threat of Data Quality: and Why the Modern Data Stack Can't Solve It](https://dataproducts.substack.com/p/the-existential-threat-of-data-quality?s=r&utm_campaign=post&utm_medium=web) | Despite the rapidly-evolving/growing data stack, poor data quality remains an enormous problem; the article breaks it down into "downstream" and "upstream" categories. | 2022
 
 
 ## Strategy
