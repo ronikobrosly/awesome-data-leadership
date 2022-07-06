@@ -130,6 +130,7 @@ Author | Title | One-sentence summary | Year
 [Nelson Auner](https://www.linkedin.com/in/nelsonauner/) | [Building an Analytics Stack in 2020](https://locallyoptimistic.com/post/0-to-60-analytics-stack/) | Gives an overview of the modern analytics stack via three buckets: a data-moving tool (ETL), a data warehouse to store the data, and a BI layer to analyze the data. | 2020
 [Mode](https://mode.com/) | [The Data Team’s Guide for Marketing Metrics](https://mode.com/data-teams-guide-for-marketing-metrics/) | Good overview of the landscape of metrics used in data marketing work (as well as information on the technical side of it). | 2022
 [SeattleDataGuy](https://seattledataguy.substack.com/) | [Why Are We Still Struggling To Answer How Many Active Customers We Have?](https://seattledataguy.substack.com/p/why-are-we-still-struggling-to-answer) | Surprisingly, metrics are still hard to calculate and this is at least partly because of turnover of developers, ERP and CRM migrations, producers of data constantly changing what data they provide, and mergers and acquisitions, and other reasons. | 2022
+[Randy Au](https://www.linkedin.com/in/randy-au-5563372b/) | [We take our units of analysis for granted](https://counting.substack.com/p/we-take-our-units-of-analysis-for) | Understanding what the "unit of analysis" is, is critical to answer a research question, and yet in industry it's something we often poorly handle. | 2022
 
 
 ## Management Skills
