@@ -103,6 +103,7 @@ Author | Title | One-sentence summary | Year
 [Rifat Majumder](https://www.linkedin.com/in/rifat-majumder/) | [The Data Product Manager](https://locallyoptimistic.com/post/data-product-manager/) | Describes the emerging role of "Data Product Manager", and how benefits they provide an org: better business impact, a deep understanding of customer problems, and more clarity on priorities. | 2021
 [Benn Stancil](https://www.linkedin.com/in/benn-stancil/) | [The technical pay gap: The culture we build is the culture we buy](https://benn.substack.com/p/the-technical-pay-gap?s=r) | Describes the current state of confusion around data titles (using the "analytics engineer" as an example), and describes how the tech industry overvalues technical skills at times. | 2022
 [Ben Darfler](https://www.linkedin.com/in/bdarfler) | [Engineering Levels at Honeycomb: Avoiding the Scope Trap](https://www.honeycomb.io/blog/engineering-levels-at-honeycomb/) | Describes a nice framework for thinking about job levels, based on scope and level of project complexity. | 2022
+[Mikkel Dengsøe](https://www.linkedin.com/in/mikkeldengsoe/) | [Data teams are getting larger, faster](https://mikkeldengsoe.substack.com/p/data-team-size) | There are many problems you can encounter when your data team grows beyond a handful of people; the article provides some tips on working through these problems. | 2022
 
 ## ML and AI Within an Organization
 
