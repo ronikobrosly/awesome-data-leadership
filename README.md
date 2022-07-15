@@ -1,7 +1,7 @@
 # awesome-data-leadership 
 A curated list of awesome and useful posts, videos, and articles on leading a data team. This includes leadership at the middle-management, Director/VP, or C-suite level, for organizations both big and small. A few relevant engineering management articles are sprinkled in. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Please contribute by opening PRs! ⚡️ 
+### Please contribute by opening PRs! ⚡️ 
 
 # Topics
 
@@ -9,6 +9,7 @@ Please contribute by opening PRs! ⚡️
 - [Culture](#culture)
 - [Impact](#impact)
 - [Strategy](#strategy)
+- [Diversity Equity and Inclusion](#diversity-equity-and-inclusion)
 - [Project Management](#project-management)
 - [Code Review](#code-review)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles)
@@ -67,6 +68,14 @@ Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Prukalpa Sankar](https://www.linkedin.com/in/prukalpa) | [Data Advantage Matrix: A New Way to Think About Data Strategy](https://towardsdatascience.com/data-advantage-matrix-a-new-way-to-think-about-data-strategy-4178cd2f520a) | Break down your data advantage into four categories (e.g. operational, strategic, product, and business opportunity) and then assess what stage each of these is at (e.g. basic, intermediate, advanced) | 2021
 [Ilan Man](https://www.linkedin.com/in/ilanman/) | [Creating a Data Road Map](https://locallyoptimistic.com/post/roadmap/) | Provides suggestions for what factors to consider when thinking about a data roadmap or data strategy (e.g. identifying the audience, set up the scaffolding, etc.) .  | 2019
+
+
+## Diversity Equity and Inclusion
+
+Author | Title | One-sentence summary | Year
+---|---|---|---
+[Sergio Morales](https://medium.com/@fireblend) | [Future-proof your Analytics Efforts in 2020: Hire Diverse Teams](https://towardsdatascience.com/future-proof-your-analytics-efforts-hire-diverse-teams-9e8f9a471859) | Post describes how data team diversity deters bias and encourages curiosity, skepticism and analytical thinking; attributes any analytics enterprise will highly value. | 2020
+
 
 ## Project Management
 
