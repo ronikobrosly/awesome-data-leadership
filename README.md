@@ -76,6 +76,7 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Sergio Morales](https://medium.com/@fireblend) | [Future-proof your Analytics Efforts in 2020: Hire Diverse Teams](https://towardsdatascience.com/future-proof-your-analytics-efforts-hire-diverse-teams-9e8f9a471859) | Post describes how data team diversity deters bias and encourages curiosity, skepticism and analytical thinking; attributes any analytics enterprise will highly value. | 2020
+[Swathi Young](https://www.linkedin.com/in/swathiyoung) | [How To Make Sure That Diversity In AI Works](https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/?sh=37ecf0cd567a) | Post provides guidance on how management teams can build diverse AI teams, including suggestions like restructuring talent acquisition, thinking through pay parity, and more. | 2021
 
 
 ## Project Management
