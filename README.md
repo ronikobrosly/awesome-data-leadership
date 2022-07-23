@@ -3,20 +3,20 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 
 ### Please contribute by opening PRs! ⚡️ 
 
-# Topics
+# Topics (with # of links)
 
-- [Hiring](#hiring)
-- [Culture](#culture)
-- [Impact](#impact)
-- [Strategy](#strategy)
-- [Diversity Equity and Inclusion](#diversity-equity-and-inclusion)
-- [Project Management](#project-management)
-- [Code Review](#code-review)
-- [Organization Structure and Job Titles](#organization-structure-and-job-titles)
-- [ML and AI Within an Organization](#ml-and-ai-within-an-organization)
-- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization)
-- [Management Skills](#management-skills)
-- [Data Platforms](#data-platforms)
+- [Hiring](#hiring) (11)
+- [Culture](#culture) (10)
+- [Impact](#impact) (6)
+- [Strategy](#strategy) (3)
+- [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
+- [Project Management](#project-management) (5)
+- [Code Review](#code-review) (2)
+- [Organization Structure and Job Titles](#organization-structure-and-job-titles) (12)
+- [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (7)
+- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (10)
+- [Management Skills](#management-skills) (6)
+- [Data Platforms](#data-platforms) (1)
 
 
 ## Hiring
