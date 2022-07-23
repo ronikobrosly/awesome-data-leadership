@@ -16,6 +16,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization)
 - [Management Skills](#management-skills)
+- [Data Platforms](#data-platforms)
 
 
 ## Hiring
@@ -156,3 +157,9 @@ Author | Title | One-sentence summary | Year
 [Alan Johnson](https://www.linkedin.com/in/acjay/) | [11 Principles of Engineering Management](https://acjay.com/2022/03/11/11-principles-of-engineering-management/) | A brief, digestable list of management principles for new engineering managers. | 2022
 [GitLab](gitlab.com) | [Preventing burnout: A manager's toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/) | Provides 12 strategies managers can utilize to support their team and prevent burnout | 2022
 [Tanya Reilly](https://www.linkedin.com/in/tanyareilly/) | [Being glue](https://noidea.dog/glue) | Describes the importance of "glue work" (e.g. noticing when other people in the team are blocked and helping them out, reviewing design documents and noticing what's inconsistent, onboarding the new people and making them productive faster, or improving processes to make customers happy. | 2019
+
+
+## Data Platforms
+Author | Title | One-sentence summary | Year
+---|---|---|---
+[Elijah Ben Izzy ](https://www.linkedin.com/in/elijahbenizzy/) and [Stefan Krawczyk](https://www.linkedin.com/in/skrawczyk/) | [Deployment for Free -- A Machine Learning Platform for Stitch Fix's Data Scientists](https://multithreaded.stitchfix.com/blog/2022/07/14/deployment-for-free/) | The authors describe, at a high-level, the initial design considerations for Stitch Fix's ML platform, present the API data scientists use to interact with it, and detail its capabilities. | 2022
