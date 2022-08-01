@@ -16,7 +16,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (7)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (10)
 - [Management Skills](#management-skills) (6)
-- [Data Platforms](#data-platforms) (3)
+- [Data Platforms](#data-platforms) (4)
 
 
 ## Hiring
@@ -166,3 +166,4 @@ Author | Title | One-sentence summary | Year
 [Elijah Ben Izzy ](https://www.linkedin.com/in/elijahbenizzy/) and [Stefan Krawczyk](https://www.linkedin.com/in/skrawczyk/) | [Deployment for Free -- A Machine Learning Platform for Stitch Fix's Data Scientists](https://multithreaded.stitchfix.com/blog/2022/07/14/deployment-for-free/) | The authors describe, at a high-level, the initial design considerations for Stitch Fix's ML platform, present the API data scientists use to interact with it, and detail its capabilities. | 2022
 [Barr Moses](https://www.linkedin.com/in/barrmoses/) and [Lior Gavish](https://www.linkedin.com/in/lgavish/) | [What is a Data Platform? And How to Build One](https://www.montecarlodata.com/blog-what-is-a-data-platform-and-how-to-build-one/) | While every organization’s data platform approach will vary based on the industry and the size of their company, this quick and dirty guide lays out a blueprint for a modern data platform. | 2022
 [Jordan Volz](https://www.linkedin.com/in/jordanvolz/) | [The Modern Data Stack Ecosystem: Spring 2022 Edition](https://continual.ai/post/the-modern-data-stack-ecosystem-spring-2022-edition) | Articles maps out the various pieces of the modern data stack, including event tracking, a data warehouse, data governance, and more. | 2022
+[Krzysztof Szafranek](https://www.linkedin.com/in/szafranek/?originalSubdomain=de) | [Zalando's Machine Learning Platform: Architecture and tooling behind machine learning at Zalando](https://engineering.zalando.com/posts/2022/04/zalando-machine-learning-platform.html) | Provides an overview of Zalando's ML platform (AWS-powered) from the perspective of a machine learning practitioner. | 2022
