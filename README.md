@@ -12,7 +12,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
 - [Project Management](#project-management) (5)
 - [Code Review](#code-review) (2)
-- [Organization Structure and Job Titles](#organization-structure-and-job-titles) (12)
+- [Organization Structure and Job Titles](#organization-structure-and-job-titles) (13)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (7)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (10)
 - [Management Skills](#management-skills) (6)
@@ -117,6 +117,7 @@ Author | Title | One-sentence summary | Year
 [Benn Stancil](https://www.linkedin.com/in/benn-stancil/) | [The technical pay gap: The culture we build is the culture we buy](https://benn.substack.com/p/the-technical-pay-gap?s=r) | Describes the current state of confusion around data titles (using the "analytics engineer" as an example), and describes how the tech industry overvalues technical skills at times. | 2022
 [Ben Darfler](https://www.linkedin.com/in/bdarfler) | [Engineering Levels at Honeycomb: Avoiding the Scope Trap](https://www.honeycomb.io/blog/engineering-levels-at-honeycomb/) | Describes a nice framework for thinking about job levels, based on scope and level of project complexity. | 2022
 [Mikkel Dengsøe](https://www.linkedin.com/in/mikkeldengsoe/) | [Data teams are getting larger, faster](https://mikkeldengsoe.substack.com/p/data-team-size) | There are many problems you can encounter when your data team grows beyond a handful of people; the article provides some tips on working through these problems. | 2022
+[Jorge Fioranelli](https://github.com/jorgef) | [A framework for Engineering Managers ](https://github.com/jorgef/engineeringladders) | Although not directly about data this is relevant: a framework for engineering managers to think through titles and expectations (including domains of technology, systems, people, process, and influence). | 2022
 
 ## ML and AI Within an Organization
 
