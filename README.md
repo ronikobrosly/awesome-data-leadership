@@ -17,6 +17,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (10)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (4)
+- [Data Governance](#data-governance) (1)
 
 
 ## Hiring
@@ -169,9 +170,15 @@ Author | Title | One-sentence summary | Year
 [Krzysztof Szafranek](https://www.linkedin.com/in/szafranek/?originalSubdomain=de) | [Zalando's Machine Learning Platform: Architecture and tooling behind machine learning at Zalando](https://engineering.zalando.com/posts/2022/04/zalando-machine-learning-platform.html) | Provides an overview of Zalando's ML platform (AWS-powered) from the perspective of a machine learning practitioner. | 2022
 
 
+## Data Governance
+Author | Title | One-sentence summary | Year
+---|---|---|---
+[Sanjana Sen](https://www.linkedin.com/in/sensanjana/) and [Stephen Bailey](https://www.linkedin.com/in/stkbailey/) | [Locally Optimistic Meetup - Governance and Compliance](https://www.youtube.com/watch?v=HHD-MLL8hPE) | A conversation among many data practitioners about how their organizations handle data access control, data tagging, anonymization, and other key compliance activities, and what frameworks they have found helpful. | 2020
+
+
 
 ## TODOs:
 
-* Add data governance section
+* Add post https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/designing-data-governance-that-delivers-value
 * Add post https://eng.uber.com/ml-education-at-uber/
 * Add post https://amplifypartners.com/moderndatateamshub/
