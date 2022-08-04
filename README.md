@@ -13,7 +13,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Project Management](#project-management) (5)
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (13)
-- [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (7)
+- [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (8)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (10)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (4)
@@ -132,6 +132,7 @@ Author | Title | One-sentence summary | Year
 [Pete Warden](https://www.linkedin.com/in/petewarden/) | [How Should you Protect your Machine Learning Models and IP?](https://petewarden.com/2022/05/08/how-should-you-protect-your-machine-learning-models-and-ip/) | Some thoughts on the importance of protecting IP in a ML org. | 2022
 [Jeff Saltz](https://www.linkedin.com/in/jeffsaltz/) | [Managing Machine Learning Projects](https://www.datascience-pm.com/machine-learning-project-management/) | Touches on difficulties of managing ML projects and how the management process differs from standard software development. | 2021
 [Alfred Spector](https://www.linkedin.com/in/alfred-spector/), [Peter Norvig](https://www.linkedin.com/in/pnorvig/), [Chris Wiggins](https://datascience.columbia.edu/people/chris-h-wiggins/), and [Jeannette M. Wing](https://datascience.columbia.edu/people/jeannette-m-wing/) | [Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/manuscript/) | A pre-release of a book that gives a thorough accounting of the history of Data Science, a high-level understanding of its applications, and the ethical and social concerns associated with it. | 2022
+[Brooke Carter](https://eng.uber.com/author/brooke-carter/), [Melissa Barr](https://www.linkedin.com/in/melissabarr1/), and [Michael Mui](https://eng.uber.com/author/michael-mui/) | [ML Education at Uber: Frameworks Inspired by Engineering Principles](https://eng.uber.com/ml-education-at-uber/) | Provides an overview of the philosophy behind Uber's ML education program. | 2022
 
 
 ## BI and Analytics Within an Organization
