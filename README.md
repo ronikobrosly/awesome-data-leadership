@@ -11,7 +11,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Strategy](#strategy) (3)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
 - [Project Management](#project-management) (5)
-- [Code Review](#code-review) (2)
+- [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (13)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (7)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (10)
@@ -100,6 +100,7 @@ Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Gunnar Morling](https://www.linkedin.com/in/gunnar-morling-2b44b7229) | [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/) | There should be a hierachy of effort in reviewing code, where more effort is spent on core concepts, how performant code is, and documentation, with less effort on test quality (though of course tests are important) and syntax. | 2022
 [Tim Hopper](https://www.linkedin.com/in/tdhopper/) | [Code Review Guidelines for Data Science Teams](https://tdhopper.com/blog/code-review-guidelines) | In the context of data team, desecribes what a code review should achieve, bullets to carry out pull requests, and some links to additional reading. | 2020
+[Eric Ma](https://www.linkedin.com/in/ericmjl/) | [Practicing Code Review](https://github.com/ericmjl/essays-on-data-science/blob/master/docs/workflow/code-review.md) | In the context of data science the essay briefly describes the purpose of code review, what it should not be, and the value of it in data work. | 2021
 
 
 ## Organization Structure and Job Titles
@@ -182,3 +183,4 @@ Author | Title | One-sentence summary | Year
 
 * Add post https://eng.uber.com/ml-education-at-uber/
 * Add post https://amplifypartners.com/moderndatateamshub/
+* Add essays from: https://github.com/ericmjl/essays-on-data-science
