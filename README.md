@@ -182,6 +182,21 @@ Author | Title | One-sentence summary | Year
 
 ## TODOs:
 
-* Add post https://eng.uber.com/ml-education-at-uber/
-* Add post https://amplifypartners.com/moderndatateamshub/
-* Add essays from: https://github.com/ericmjl/essays-on-data-science
+* Add the following posts:
+    * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
+    * https://www.getdbt.com/data-teams/hiring-data-engineer/
+    * https://medium.com/@kurtcagle/why-you-dont-need-data-scientists-a9654cc9f0e4
+    * https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/
+    * https://roundup.getdbt.com/p/four-frameworks-for-self-service?triedSigningIn=true
+    * https://oscarbaruffa.com/difficult/
+    * https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
+    * https://www.caitlinhudon.com/posts/2017/11/14/data-meta-metrics
+    * https://www.youtube.com/watch?v=HwZlGQuCTj4
+    * https://www.codingvc.com/p/the-value-of-data-part-1-using-data-as-a-competitive-advantage?utm_source=url&triedSigningIn=true
+    * https://www.codingvc.com/p/the-value-of-data-part-2-building-valuable-datasets
+    * https://www.codingvc.com/p/the-value-of-data-part-3-data-business-models
+    * https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1
+    * https://locallyoptimistic.com/post/building-a-data-practice/
+    * https://go.beondeck.com/ds-managers-guide-recording?_hsmi=218113162&_hsenc=p2ANqtz--mikSA5CkIpCU1jwuq1G3IbwHv2-hbVnfdXyn0S8r1wrGhXrFohUgmKWnP-dxTw_1clYj-CK1qU4HbvlVRQxFr22yonQ
+    * https://locallyoptimistic.com/post/people-first-data-stacks/
+    * https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd
