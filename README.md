@@ -17,7 +17,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (10)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (4)
-- [Data Governance](#data-governance) (1)
+- [Data Governance](#data-governance) (2)
 
 
 ## Hiring
@@ -174,11 +174,11 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Sanjana Sen](https://www.linkedin.com/in/sensanjana/) and [Stephen Bailey](https://www.linkedin.com/in/stkbailey/) | [Locally Optimistic Meetup - Governance and Compliance](https://www.youtube.com/watch?v=HHD-MLL8hPE) | A conversation among many data practitioners about how their organizations handle data access control, data tagging, anonymization, and other key compliance activities, and what frameworks they have found helpful. | 2020
+[Bryan Petzold](https://www.linkedin.com/in/bryan-petzold/), [Matthias Roggendorf](https://www.linkedin.com/in/matthias-roggendorf-2a2aa3/?originalSubdomain=de), [Kayvaun Rowshankish](https://www.linkedin.com/in/kayvaunrowshankish/), and [Christoph Sporleder](https://www.linkedin.com/in/christoph-sporleder-3b21411/?originalSubdomain=de) | [Designing data governance that delivers value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/designing-data-governance-that-delivers-value) | Briefly surveys the problem of poor data governance, describes an idea data governance model, and provides six ways to drive data-governance excellence. | 2020 
 
 
 
 ## TODOs:
 
-* Add post https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/designing-data-governance-that-delivers-value
 * Add post https://eng.uber.com/ml-education-at-uber/
 * Add post https://amplifypartners.com/moderndatateamshub/
