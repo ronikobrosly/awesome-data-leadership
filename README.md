@@ -183,7 +183,11 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
+    * https://amplitude.com/north-star (analytics)
+    * https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522 (data platform)
+    * https://www.metaplane.dev/blog/the-four-pillars-of-data-observability (data platform)
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
+    * https://artgor.medium.com/lessons-learned-after-10-years-in-it-1489ad39280e
     * https://www.getdbt.com/data-teams/hiring-data-engineer/
     * https://medium.com/@kurtcagle/why-you-dont-need-data-scientists-a9654cc9f0e4
     * https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/
