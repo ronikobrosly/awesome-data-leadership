@@ -16,7 +16,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (8)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (10)
 - [Management Skills](#management-skills) (6)
-- [Data Platforms](#data-platforms) (4)
+- [Data Platforms](#data-platforms) (5)
 - [Data Governance](#data-governance) (2)
 
 
@@ -170,6 +170,8 @@ Author | Title | One-sentence summary | Year
 [Barr Moses](https://www.linkedin.com/in/barrmoses/) and [Lior Gavish](https://www.linkedin.com/in/lgavish/) | [What is a Data Platform? And How to Build One](https://www.montecarlodata.com/blog-what-is-a-data-platform-and-how-to-build-one/) | While every organization’s data platform approach will vary based on the industry and the size of their company, this quick and dirty guide lays out a blueprint for a modern data platform. | 2022
 [Jordan Volz](https://www.linkedin.com/in/jordanvolz/) | [The Modern Data Stack Ecosystem: Spring 2022 Edition](https://continual.ai/post/the-modern-data-stack-ecosystem-spring-2022-edition) | Articles maps out the various pieces of the modern data stack, including event tracking, a data warehouse, data governance, and more. | 2022
 [Krzysztof Szafranek](https://www.linkedin.com/in/szafranek/?originalSubdomain=de) | [Zalando's Machine Learning Platform: Architecture and tooling behind machine learning at Zalando](https://engineering.zalando.com/posts/2022/04/zalando-machine-learning-platform.html) | Provides an overview of Zalando's ML platform (AWS-powered) from the perspective of a machine learning practitioner. | 2022
+[Jean-Georges Perrin](https://www.linkedin.com/in/jgperrin/) | [The next generation of Data Platforms is the Data Mesh](https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522) | Given the 2022 Q2 state of the art in data platform architecture, the post argues that current data platforms are horizontal/breadth-first and should switch to a vertical/depth-first design ([credit](https://martinfowler.com/articles/data-monolith-to-mesh.html)). Each vertical corresponds to a relevant unit of data analytics and is problem-specific. As a rule of thumb, _If you are in the healthcare industry, <a domain> can be a hospital or a specific department such as radiology._ The idea is then to apply Agile-based principles to ensure delivery of one domain at a time (= Agile work increment) as a finished data product (criteria under `2. Principle of Data as a Product`) for data scientists (= Agile customer). Discovery phases are then expected to shorten thanks to the better-defined deliverable for data scientists. | 2022
+
 
 
 ## Data Governance
@@ -184,7 +186,6 @@ Author | Title | One-sentence summary | Year
 
 * Add the following posts:
     * https://amplitude.com/north-star (analytics)
-    * https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522 (data platform)
     * https://www.metaplane.dev/blog/the-four-pillars-of-data-observability (data platform)
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
     * https://artgor.medium.com/lessons-learned-after-10-years-in-it-1489ad39280e
