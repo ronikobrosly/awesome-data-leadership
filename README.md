@@ -12,7 +12,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
 - [Project Management](#project-management) (5)
 - [Code Review](#code-review) (3)
-- [Organization Structure and Job Titles](#organization-structure-and-job-titles) (13)
+- [Organization Structure and Job Titles](#organization-structure-and-job-titles) (14)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (8)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (10)
 - [Management Skills](#management-skills) (6)
@@ -120,6 +120,7 @@ Author | Title | One-sentence summary | Year
 [Ben Darfler](https://www.linkedin.com/in/bdarfler) | [Engineering Levels at Honeycomb: Avoiding the Scope Trap](https://www.honeycomb.io/blog/engineering-levels-at-honeycomb/) | Describes a nice framework for thinking about job levels, based on scope and level of project complexity. | 2022
 [Mikkel Dengsøe](https://www.linkedin.com/in/mikkeldengsoe/) | [Data teams are getting larger, faster](https://mikkeldengsoe.substack.com/p/data-team-size) | There are many problems you can encounter when your data team grows beyond a handful of people; the article provides some tips on working through these problems. | 2022
 [Jorge Fioranelli](https://github.com/jorgef) | [A framework for Engineering Managers ](https://github.com/jorgef/engineeringladders) | Although not directly about data this is relevant: a framework for engineering managers to think through titles and expectations (including domains of technology, systems, people, process, and influence). | 2022
+[Pardis Noorzad](https://www.linkedin.com/in/djpardis/) | [Models for integrating data science teams within companies: A comparative analysis](https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd) | Compares different models for situating DS teams including the "center-of-excellence model", the "Accounting model", the "consultant model", the "embedded model", and more, and considers factors like "Coordination efficiency", "Employee happiness", and others. | 2019
 
 ## ML and AI Within an Organization
 
@@ -203,4 +204,3 @@ Author | Title | One-sentence summary | Year
     * https://locallyoptimistic.com/post/building-a-data-practice/
     * https://go.beondeck.com/ds-managers-guide-recording?_hsmi=218113162&_hsenc=p2ANqtz--mikSA5CkIpCU1jwuq1G3IbwHv2-hbVnfdXyn0S8r1wrGhXrFohUgmKWnP-dxTw_1clYj-CK1qU4HbvlVRQxFr22yonQ
     * https://locallyoptimistic.com/post/people-first-data-stacks/
-    * https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd
