@@ -12,7 +12,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
 - [Project Management](#project-management) (5)
 - [Code Review](#code-review) (3)
-- [Organization Structure and Job Titles](#organization-structure-and-job-titles) (14)
+- [Organization Structure and Job Titles](#organization-structure-and-job-titles) (15)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (8)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (12)
 - [Management Skills](#management-skills) (6)
@@ -121,6 +121,7 @@ Author | Title | One-sentence summary | Year
 [Mikkel Dengsøe](https://www.linkedin.com/in/mikkeldengsoe/) | [Data teams are getting larger, faster](https://mikkeldengsoe.substack.com/p/data-team-size) | There are many problems you can encounter when your data team grows beyond a handful of people; the article provides some tips on working through these problems. | 2022
 [Jorge Fioranelli](https://github.com/jorgef) | [A framework for Engineering Managers ](https://github.com/jorgef/engineeringladders) | Although not directly about data this is relevant: a framework for engineering managers to think through titles and expectations (including domains of technology, systems, people, process, and influence). | 2022
 [Pardis Noorzad](https://www.linkedin.com/in/djpardis/) | [Models for integrating data science teams within companies: A comparative analysis](https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd) | Compares different models for situating DS teams including the "center-of-excellence model", the "Accounting model", the "consultant model", the "embedded model", and more, and considers factors like "Coordination efficiency", "Employee happiness", and others. | 2019
+[Kurt Cagle](https://medium.com/@kurtcagle) | [Why You Don’t Need Data Scientists](https://medium.com/@kurtcagle/why-you-dont-need-data-scientists-a9654cc9f0e4) | Early in an organization's data maturity stage, you don't need "data scientists" and machine learning people, you instead need to focus on data quality and ontological engineering problems. | 2018
 
 ## ML and AI Within an Organization
 
@@ -192,7 +193,6 @@ Author | Title | One-sentence summary | Year
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
     * https://artgor.medium.com/lessons-learned-after-10-years-in-it-1489ad39280e
     * https://www.getdbt.com/data-teams/hiring-data-engineer/
-    * https://medium.com/@kurtcagle/why-you-dont-need-data-scientists-a9654cc9f0e4
     * https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/
     * https://roundup.getdbt.com/p/four-frameworks-for-self-service?triedSigningIn=true
     * https://oscarbaruffa.com/difficult/
