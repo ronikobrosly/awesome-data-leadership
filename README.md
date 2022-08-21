@@ -185,6 +185,7 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
+    * https://towardsdatascience.com/not-all-data-requests-are-urgent-so-start-by-asking-these-5-questions-ad77d1fbe7dd
     * https://amplitude.com/north-star (analytics)
     * https://www.metaplane.dev/blog/the-four-pillars-of-data-observability (data platform)
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
