@@ -14,7 +14,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (14)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (8)
-- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (10)
+- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (11)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (5)
 - [Data Governance](#data-governance) (2)
@@ -150,6 +150,7 @@ Author | Title | One-sentence summary | Year
 [Mode](https://mode.com/) | [The Data Team’s Guide for Marketing Metrics](https://mode.com/data-teams-guide-for-marketing-metrics/) | Good overview of the landscape of metrics used in data marketing work (as well as information on the technical side of it). | 2022
 [SeattleDataGuy](https://seattledataguy.substack.com/) | [Why Are We Still Struggling To Answer How Many Active Customers We Have?](https://seattledataguy.substack.com/p/why-are-we-still-struggling-to-answer) | Surprisingly, metrics are still hard to calculate and this is at least partly because of turnover of developers, ERP and CRM migrations, producers of data constantly changing what data they provide, and mergers and acquisitions, and other reasons. | 2022
 [Randy Au](https://www.linkedin.com/in/randy-au-5563372b/) | [We take our units of analysis for granted](https://counting.substack.com/p/we-take-our-units-of-analysis-for) | Understanding what the "unit of analysis" is, is critical to answer a research question, and yet in industry it's something we often poorly handle. | 2022
+[Marie Lefevre](https://marie-lefevre.medium.com/) | [Not All Data Requests Are Urgent, So Start by Asking These 5 Questions](https://towardsdatascience.com/not-all-data-requests-are-urgent-so-start-by-asking-these-5-questions-ad77d1fbe7dd) | Details five questions the authors typically asks of those that request analyses: Why? Why again? Who is it for? When is it due? Is it more of a priority than that other request? | 2022
 
 
 ## Management Skills
@@ -185,7 +186,6 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
-    * https://towardsdatascience.com/not-all-data-requests-are-urgent-so-start-by-asking-these-5-questions-ad77d1fbe7dd
     * https://amplitude.com/north-star (analytics)
     * https://www.metaplane.dev/blog/the-four-pillars-of-data-observability (data platform)
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
