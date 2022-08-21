@@ -16,7 +16,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (8)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (11)
 - [Management Skills](#management-skills) (6)
-- [Data Platforms](#data-platforms) (5)
+- [Data Platforms](#data-platforms) (6)
 - [Data Governance](#data-governance) (2)
 
 
@@ -173,6 +173,7 @@ Author | Title | One-sentence summary | Year
 [Jordan Volz](https://www.linkedin.com/in/jordanvolz/) | [The Modern Data Stack Ecosystem: Spring 2022 Edition](https://continual.ai/post/the-modern-data-stack-ecosystem-spring-2022-edition) | Articles maps out the various pieces of the modern data stack, including event tracking, a data warehouse, data governance, and more. | 2022
 [Krzysztof Szafranek](https://www.linkedin.com/in/szafranek/?originalSubdomain=de) | [Zalando's Machine Learning Platform: Architecture and tooling behind machine learning at Zalando](https://engineering.zalando.com/posts/2022/04/zalando-machine-learning-platform.html) | Provides an overview of Zalando's ML platform (AWS-powered) from the perspective of a machine learning practitioner. | 2022
 [Jean-Georges Perrin](https://www.linkedin.com/in/jgperrin/) | [The next generation of Data Platforms is the Data Mesh](https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522) | The post summarizes [Zhamak Dehghani's proposal](https://martinfowler.com/articles/data-monolith-to-mesh.html) for transitioning from current breadth-first data platforms (end-to-end data lifecycle) into vertical/depth-first architectures (one business domain at a time). | 2022
+[Gabrielle Davelaar](https://www.linkedin.com/in/gabrielle-davelaar-755b731b/?originalSubdomain=nl) and [Jordan Edwards](https://www.linkedin.com/in/msftjordane/) | [DevOps for AI - Microsoft](https://www.youtube.com/watch?v=HwZlGQuCTj4) | Great talk outlines how DevOps principles can be applied to AI, and then shows in detail how CI/CD, version control, model storage, and more fit into a great MLOps process. | 2018
 
 
 ## Data Governance
@@ -197,7 +198,6 @@ Author | Title | One-sentence summary | Year
     * https://oscarbaruffa.com/difficult/
     * https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
     * https://www.caitlinhudon.com/posts/2017/11/14/data-meta-metrics
-    * https://www.youtube.com/watch?v=HwZlGQuCTj4
     * https://www.codingvc.com/p/the-value-of-data-part-1-using-data-as-a-competitive-advantage?utm_source=url&triedSigningIn=true
     * https://www.codingvc.com/p/the-value-of-data-part-2-building-valuable-datasets
     * https://www.codingvc.com/p/the-value-of-data-part-3-data-business-models
