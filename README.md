@@ -153,6 +153,7 @@ Author | Title | One-sentence summary | Year
 [Randy Au](https://www.linkedin.com/in/randy-au-5563372b/) | [We take our units of analysis for granted](https://counting.substack.com/p/we-take-our-units-of-analysis-for) | Understanding what the "unit of analysis" is, is critical to answer a research question, and yet in industry it's something we often poorly handle. | 2022
 [Marie Lefevre](https://marie-lefevre.medium.com/) | [Not All Data Requests Are Urgent, So Start by Asking These 5 Questions](https://towardsdatascience.com/not-all-data-requests-are-urgent-so-start-by-asking-these-5-questions-ad77d1fbe7dd) | Details five questions the authors typically asks of those that request analyses: Why? Why again? Who is it for? When is it due? Is it more of a priority than that other request? | 2022
 [Amplitude](https://amplitude.com/) | [The North Star Playbook: The guide to discovering your product’s North Star](https://amplitude.com/north-star/why-use-the-north-star-framework) | A short book intended for product managers and product designers that describes the value of North Star metrics and how to iddentify them. | 2018
+[Gergely Orosz](https://www.linkedin.com/in/gergelyorosz) | [Checklist used at Uber to determine if something is urgent](https://threadreaderapp.com/thread/1542061516912037890.html) | 1. What is the impact? 2. Do you have a signed spec answering the *why* and the *what*? 3. Do you have **your** estimate of the cost? 4. Make the **cost of dropping** what you're doing very clear. | 2022
 
 
 ## Management Skills
