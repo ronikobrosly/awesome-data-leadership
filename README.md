@@ -5,14 +5,14 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 
 # Topics (with # of links)
 
-- [Hiring](#hiring) (11)
-- [Culture](#culture) (10)
+- [Hiring](#hiring) (12)
+- [Culture](#culture) (11)
 - [Impact](#impact) (6)
 - [Strategy](#strategy) (3)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
-- [Project Management](#project-management) (5)
+- [Project Management](#project-management) (6)
 - [Code Review](#code-review) (3)
-- [Organization Structure and Job Titles](#organization-structure-and-job-titles) (15)
+- [Organization Structure and Job Titles](#organization-structure-and-job-titles) (16)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (8)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (12)
 - [Management Skills](#management-skills) (6)
@@ -34,6 +34,7 @@ Author | Title | One-sentence summary | Year
 [Nate Rosidi](https://www.linkedin.com/in/nathanrosidi/) | [15 Python Coding Interview Questions You Must Know For Data Science](https://www.kdnuggets.com/2022/04/15-python-coding-interview-questions-must-know-data-science.html) | Provides 15 examples of testing basic python dta manipulation skills for interviews.  | 2022
 [Jike Chong](https://www.linkedin.com/in/jikechong/), [Ben Lorica](https://www.linkedin.com/in/benlorica/), [Yue Cathy Chang](https://www.linkedin.com/in/yuechang/) | [Top Places to Work for Data Scientists: We identify U.S. organizations that will help you develop your career in data science](https://gradientflow.com/top-places-to-work-for-data-scientists?utm_source=Data_Elixir&utm_medium=social) | Looks at factors that make a data science org attractive to an IC, but this provides some insights for hiring managers trying to get in the heads of talent. | 2022
 [Randy Au](https://www.linkedin.com/in/randy-au-5563372b/) | [Let's talk a bit about giving interviews](https://counting.substack.com/p/lets-talk-a-bit-about-giving-interviews?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387&s=r) | Gives thoughts on planning and carrying out a technical data science interview. | 2022
+[Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), Katie Malone(https://www.linkedin.com/in/caitlin-malone-46050854/)] | The Care and Feeding of Data Scientists, Chapters 2 and 3 (https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "How to Win Friends and Recruit Data Scientists" and "Interview with the Data Scientist" has tips on recruiting and interviewing. | 2019
 
 
 ## Culture
@@ -50,6 +51,7 @@ Author | Title | One-sentence summary | Year
 [David Waller](https://www.linkedin.com/in/davidbwaller/) | [10 Steps to Creating a Data-Driven Culture](https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture) | Details some steps for working towards a data-driven culture, from taking care in choosing metrics to quantifying uncertainty. | 2020
 [Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [A Culture of Partnership](https://locallyoptimistic.com/post/culture_of_partnership/) | Building a culture of partnership on your analytics team is crucial to maximizing the impact your team can have. | 2019
 [Benn Stancil](https://www.linkedin.com/in/benn-stancil/) | [Do data-driven companies actually win?](https://benn.substack.com/p/do-data-driven-companies-win) | Article discusses how much a data-driven culture actually contributes to a company's successs through a handful of hypothetical fashion companies. | 2022
+[Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), Katie Malone(https://www.linkedin.com/in/caitlin-malone-46050854/)] | The Care and Feeding of Data Scientists, Chapter 4 (https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "Fear and Loathing in Data Science" offers concrete tips on culture that help to retain your best people. | 2019
 
 
 
@@ -91,7 +93,7 @@ Author | Title | One-sentence summary | Year
 [Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [Agile Analytics, Part 1: The Good Stuff](https://locallyoptimistic.com/post/agile-analytics-p1/) | When it comes to data science and analytics, these aspects of the scrum work flow work well: acceptance criteria, pointing, two-week chunks (sprints), and explicit prioritization. | 2018
 [Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [Agile Analytics, Part 2: The Bad Stuff](https://locallyoptimistic.com/post/agile-analytics-p2/) | Some aspects of agile don't work so well with data teams, these include: "The fortuitous finding", exploratory data analysis needs, product ownership / story-writing, and business-as-usual support. | 2018
 [Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [Agile Analytics, Part 3: The Adjustments](https://locallyoptimistic.com/post/agile-analytics-p3/) | Adjustments are suggested for agile to work well on a data team: time-bound spikes for research, build in slack time for exploration, acceptance criteria includes “write the next story”, peer-review instead of sprint-review. | 2018
-
+[Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), Katie Malone(https://www.linkedin.com/in/caitlin-malone-46050854/)] | The Care and Feeding of Data Scientists, Chapter 5 (https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "To Agile or Not to Agile". | 2019
 
 
 ## Code Review
@@ -122,6 +124,7 @@ Author | Title | One-sentence summary | Year
 [Jorge Fioranelli](https://github.com/jorgef) | [A framework for Engineering Managers ](https://github.com/jorgef/engineeringladders) | Although not directly about data this is relevant: a framework for engineering managers to think through titles and expectations (including domains of technology, systems, people, process, and influence). | 2022
 [Pardis Noorzad](https://www.linkedin.com/in/djpardis/) | [Models for integrating data science teams within companies: A comparative analysis](https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd) | Compares different models for situating DS teams including the "center-of-excellence model", the "Accounting model", the "consultant model", the "embedded model", and more, and considers factors like "Coordination efficiency", "Employee happiness", and others. | 2019
 [Kurt Cagle](https://medium.com/@kurtcagle) | [Why You Don’t Need Data Scientists](https://medium.com/@kurtcagle/why-you-dont-need-data-scientists-a9654cc9f0e4) | Early in an organization's data maturity stage, you don't need "data scientists" and machine learning people, you instead need to focus on data quality and ontological engineering problems. | 2018
+[Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), Katie Malone(https://www.linkedin.com/in/caitlin-malone-46050854/)] | The Care and Feeding of Data Scientists, Chapter 6 (https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "Chutes and Career Ladders" discusses how to write a great career ladder for your team. | 2019
 
 ## ML and AI Within an Organization
 
