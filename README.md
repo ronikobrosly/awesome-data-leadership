@@ -193,6 +193,7 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
+    * https://newsletter.pragmaticengineer.com/p/year-1
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
     * https://www.metaplane.dev/blog/the-four-pillars-of-data-observability (data platform)
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
