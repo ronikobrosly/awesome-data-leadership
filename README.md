@@ -17,7 +17,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (12)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (6)
-- [Data Governance](#data-governance) (2)
+- [Data Governance](#data-governance) (3)
 
 
 ## Hiring
@@ -187,6 +187,7 @@ Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Sanjana Sen](https://www.linkedin.com/in/sensanjana/) and [Stephen Bailey](https://www.linkedin.com/in/stkbailey/) | [Locally Optimistic Meetup - Governance and Compliance](https://www.youtube.com/watch?v=HHD-MLL8hPE) | A conversation among many data practitioners about how their organizations handle data access control, data tagging, anonymization, and other key compliance activities, and what frameworks they have found helpful. | 2020
 [Bryan Petzold](https://www.linkedin.com/in/bryan-petzold/), [Matthias Roggendorf](https://www.linkedin.com/in/matthias-roggendorf-2a2aa3/?originalSubdomain=de), [Kayvaun Rowshankish](https://www.linkedin.com/in/kayvaunrowshankish/), and [Christoph Sporleder](https://www.linkedin.com/in/christoph-sporleder-3b21411/?originalSubdomain=de) | [Designing data governance that delivers value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/designing-data-governance-that-delivers-value) | Briefly surveys the problem of poor data governance, describes an idea data governance model, and provides six ways to drive data-governance excellence. | 2020 
+[Ilan Man](https://www.linkedin.com/in/ilanman/) | [People-first Data stacks](https://locallyoptimistic.com/post/people-first-data-stacks/) | Proposes switching from tech- to user-centric data management by i) integrating data into company culture (raising awareness, tracking adoption); ii) making data governance options actionable for stakeholders outside of the data platform and iii) introducing ownership of tests on data quality. | 2022
 
 
 
@@ -210,4 +211,3 @@ Author | Title | One-sentence summary | Year
     * https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1
     * https://locallyoptimistic.com/post/building-a-data-practice/
     * https://go.beondeck.com/ds-managers-guide-recording?_hsmi=218113162&_hsenc=p2ANqtz--mikSA5CkIpCU1jwuq1G3IbwHv2-hbVnfdXyn0S8r1wrGhXrFohUgmKWnP-dxTw_1clYj-CK1qU4HbvlVRQxFr22yonQ
-    * https://locallyoptimistic.com/post/people-first-data-stacks/
