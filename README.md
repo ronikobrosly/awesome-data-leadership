@@ -180,6 +180,7 @@ Author | Title | One-sentence summary | Year
 [Krzysztof Szafranek](https://www.linkedin.com/in/szafranek/?originalSubdomain=de) | [Zalando's Machine Learning Platform: Architecture and tooling behind machine learning at Zalando](https://engineering.zalando.com/posts/2022/04/zalando-machine-learning-platform.html) | Provides an overview of Zalando's ML platform (AWS-powered) from the perspective of a machine learning practitioner. | 2022
 [Jean-Georges Perrin](https://www.linkedin.com/in/jgperrin/) | [The next generation of Data Platforms is the Data Mesh](https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522) | The post summarizes [Zhamak Dehghani's proposal](https://martinfowler.com/articles/data-monolith-to-mesh.html) for transitioning from current breadth-first data platforms (end-to-end data lifecycle) into vertical/depth-first architectures (one business domain at a time). | 2022
 [Gabrielle Davelaar](https://www.linkedin.com/in/gabrielle-davelaar-755b731b/?originalSubdomain=nl) and [Jordan Edwards](https://www.linkedin.com/in/msftjordane/) | [DevOps for AI - Microsoft](https://www.youtube.com/watch?v=HwZlGQuCTj4) | Great talk outlines how DevOps principles can be applied to AI, and then shows in detail how CI/CD, version control, model storage, and more fit into a great MLOps process. | 2018
+[Kevin Hu](https://linkedin.com/in/kevinzenghu) | [The Four Pillars of Data Observability](https://www.metaplane.dev/blog/the-four-pillars-of-data-observability) | Provides a definition of data observability and how in the context of a data platform this includes the following facets: metrics, lineage, metadata, and logs.  | 2022
 
 
 ## Data Governance
@@ -194,9 +195,9 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
+    * https://arxiv.org/pdf/2209.09125v1.pdf
     * https://newsletter.pragmaticengineer.com/p/year-1
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
-    * https://www.metaplane.dev/blog/the-four-pillars-of-data-observability (data platform)
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
     * https://artgor.medium.com/lessons-learned-after-10-years-in-it-1489ad39280e
     * https://www.getdbt.com/data-teams/hiring-data-engineer/
