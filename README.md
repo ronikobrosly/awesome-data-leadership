@@ -195,6 +195,7 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
+    * https://seattledataguy.substack.com/p/onboarding-for-data-teams
     * https://arxiv.org/pdf/2209.09125v1.pdf
     * https://newsletter.pragmaticengineer.com/p/year-1
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
