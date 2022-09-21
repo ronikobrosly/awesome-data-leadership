@@ -16,7 +16,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (8)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (12)
 - [Management Skills](#management-skills) (6)
-- [Data Platforms](#data-platforms) (6)
+- [Data Platforms](#data-platforms) (7)
 - [Data Governance](#data-governance) (3)
 
 
