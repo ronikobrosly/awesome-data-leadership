@@ -8,7 +8,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Hiring](#hiring) (12)
 - [Culture](#culture) (11)
 - [Impact](#impact) (6)
-- [Strategy](#strategy) (3)
+- [Strategy](#strategy) (4)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
 - [Project Management](#project-management) (6)
 - [Code Review](#code-review) (3)
@@ -74,6 +74,7 @@ Author | Title | One-sentence summary | Year
 [Prukalpa Sankar](https://www.linkedin.com/in/prukalpa) | [Data Advantage Matrix: A New Way to Think About Data Strategy](https://towardsdatascience.com/data-advantage-matrix-a-new-way-to-think-about-data-strategy-4178cd2f520a) | Break down your data advantage into four categories (e.g. operational, strategic, product, and business opportunity) and then assess what stage each of these is at (e.g. basic, intermediate, advanced) | 2021
 [Ilan Man](https://www.linkedin.com/in/ilanman/) | [Creating a Data Road Map](https://locallyoptimistic.com/post/roadmap/) | Provides suggestions for what factors to consider when thinking about a data roadmap or data strategy (e.g. identifying the audience, set up the scaffolding, etc.) .  | 2019
 [Chris Brown](https://medium.com/@chriseisbrown) | [Executing a Data Strategy with OKRs](https://towardsdatascience.com/executing-a-data-strategy-with-okrs-acbdbbf126a7) | Outlines how OKRs (Objectives and Key Results) can help with executing on data strategy and provides some examples. | 2022
+[Yali Sassoon](https://uk.linkedin.com/in/yalisassoon) | [Organizations need to deliberately create data](https://datacreation.substack.com/p/organizations-need-to-deliberately) | Organizations spend an incredible amount of time and resources extracting data from various sources, but rarely consider making their own data to generate inputs for the ML systems. | 2022
 
 
 ## Diversity Equity and Inclusion
