@@ -8,7 +8,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Hiring](#hiring) (12)
 - [Culture](#culture) (11)
 - [Impact](#impact) (6)
-- [Strategy](#strategy) (4)
+- [Strategy](#strategy) (7)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
 - [Project Management](#project-management) (7)
 - [Code Review](#code-review) (3)
@@ -75,6 +75,9 @@ Author | Title | One-sentence summary | Year
 [Ilan Man](https://www.linkedin.com/in/ilanman/) | [Creating a Data Road Map](https://locallyoptimistic.com/post/roadmap/) | Provides suggestions for what factors to consider when thinking about a data roadmap or data strategy (e.g. identifying the audience, set up the scaffolding, etc.) .  | 2019
 [Chris Brown](https://medium.com/@chriseisbrown) | [Executing a Data Strategy with OKRs](https://towardsdatascience.com/executing-a-data-strategy-with-okrs-acbdbbf126a7) | Outlines how OKRs (Objectives and Key Results) can help with executing on data strategy and provides some examples. | 2022
 [Yali Sassoon](https://uk.linkedin.com/in/yalisassoon) | [Organizations need to deliberately create data](https://datacreation.substack.com/p/organizations-need-to-deliberately) | Organizations spend an incredible amount of time and resources extracting data from various sources, but rarely consider making their own data to generate inputs for the ML systems. | 2022
+[Leo Polovets](https://www.linkedin.com/in/lpolovets/) | [The Value of Data, Part 1: Using Data as a Competitive Advantage](https://www.codingvc.com/p/the-value-of-data-part-1-using-data-as-a-competitive-advantage) | Software and hardware infrastructure are becoming commoditized, so data you generate gives you the advantage; data helps you make good content recommendations, helps with ad targetting, gives you actionable insights, makes operations more efficient, and more. | 2015
+[Leo Polovets](https://www.linkedin.com/in/lpolovets/) | [The Value of Data, Part 2: Building Valuable Datasets](https://www.codingvc.com/p/the-value-of-data-part-2-building-valuable-datasets) | Describes the attributes of high-value datasets, common approaches for capturing this data, and common pitfalls people fall into during this process (e.g. consider the law of diminishing returns, how clean is your data, etc.) | 2015
+[Leo Polovets](https://www.linkedin.com/in/lpolovets/) | [The Value of Data, Part 3: Data Business Models](https://www.codingvc.com/p/the-value-of-data-part-3-data-business-models) | Final post in this series describes the concept of a "Data Business Model", the reality of how data can be monetized with examples of companies in each scenario. | 2015
 
 
 ## Diversity Equity and Inclusion
@@ -209,9 +212,6 @@ Author | Title | One-sentence summary | Year
     * https://roundup.getdbt.com/p/four-frameworks-for-self-service?triedSigningIn=true
     * https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
     * https://www.caitlinhudon.com/posts/2017/11/14/data-meta-metrics
-    * https://www.codingvc.com/p/the-value-of-data-part-1-using-data-as-a-competitive-advantage?utm_source=url&triedSigningIn=true
-    * https://www.codingvc.com/p/the-value-of-data-part-2-building-valuable-datasets
-    * https://www.codingvc.com/p/the-value-of-data-part-3-data-business-models
     * https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1
     * https://locallyoptimistic.com/post/building-a-data-practice/
     * https://go.beondeck.com/ds-managers-guide-recording?_hsmi=218113162&_hsenc=p2ANqtz--mikSA5CkIpCU1jwuq1G3IbwHv2-hbVnfdXyn0S8r1wrGhXrFohUgmKWnP-dxTw_1clYj-CK1qU4HbvlVRQxFr22yonQ
