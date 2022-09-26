@@ -10,7 +10,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Impact](#impact) (6)
 - [Strategy](#strategy) (4)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
-- [Project Management](#project-management) (6)
+- [Project Management](#project-management) (7)
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (16)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (10)
@@ -95,6 +95,7 @@ Author | Title | One-sentence summary | Year
 [Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [Agile Analytics, Part 2: The Bad Stuff](https://locallyoptimistic.com/post/agile-analytics-p2/) | Some aspects of agile don't work so well with data teams, these include: "The fortuitous finding", exploratory data analysis needs, product ownership / story-writing, and business-as-usual support. | 2018
 [Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [Agile Analytics, Part 3: The Adjustments](https://locallyoptimistic.com/post/agile-analytics-p3/) | Adjustments are suggested for agile to work well on a data team: time-bound spikes for research, build in slack time for exploration, acceptance criteria includes “write the next story”, peer-review instead of sprint-review. | 2018
 [Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), [Katie Malone](https://www.linkedin.com/in/caitlin-malone-46050854/) | [The Care and Feeding of Data Scientists, Chapter 5](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "To Agile or Not to Agile". | 2019
+[Oscar Baruffa](https://www.linkedin.com/in/oscarbaruffa/) | [Dealing with difficult stakeholders](https://oscarbaruffa.com/difficult/) | Presents some approaches for handling difficult stakeholders that you need buy-in from, including things like take the path of least resistance, work towards getting stakeholders to think it's their idea, have lots of private conversations beforehand, and more.  | 2022
 
 
 ## Code Review
@@ -206,7 +207,6 @@ Author | Title | One-sentence summary | Year
     * https://www.getdbt.com/data-teams/hiring-data-engineer/
     * https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/
     * https://roundup.getdbt.com/p/four-frameworks-for-self-service?triedSigningIn=true
-    * https://oscarbaruffa.com/difficult/
     * https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
     * https://www.caitlinhudon.com/posts/2017/11/14/data-meta-metrics
     * https://www.codingvc.com/p/the-value-of-data-part-1-using-data-as-a-competitive-advantage?utm_source=url&triedSigningIn=true
