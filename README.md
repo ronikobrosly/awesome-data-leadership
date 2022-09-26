@@ -13,7 +13,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Project Management](#project-management) (7)
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (16)
-- [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (10)
+- [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (11)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (12)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (7)
@@ -145,6 +145,9 @@ Author | Title | One-sentence summary | Year
 [Brooke Carter](https://eng.uber.com/author/brooke-carter/), [Melissa Barr](https://www.linkedin.com/in/melissabarr1/), and [Michael Mui](https://eng.uber.com/author/michael-mui/) | [ML Education at Uber: Frameworks Inspired by Engineering Principles](https://eng.uber.com/ml-education-at-uber/) | Provides an overview of the philosophy behind Uber's ML education program. | 2022
 [Eyal Trabelsi](https://il.linkedin.com/in/eyaltrabelsi) | [How to build TRUST in Machine Learning, the sane way](https://medium.com/bigabids-dataverse/how-to-build-trust-in-machine-learning-the-sane-way-39d879f22e69) | Provides suggestions on how teams can improve trust in ML in their org, including defining metrics up front, following some best practices when developing the model, A/B testing the model upon deployment, and more. | 2022
 [Andrew Lukyanenko](https://www.linkedin.com/in/andlukyane/?originalSubdomain=ru) | [Lessons learned after 10 years in IT: What I have learned from my mistakes and successes](https://artgor.medium.com/lessons-learned-after-10-years-in-it-1489ad39280e) | A senior data scientist gives general DS career (some of which is worth noting as a leader) including topics around interviewing, productivity, communication, time estimation, and more. | 2022
+[Shreya Shankar](https://www.linkedin.com/in/shrshnk/) et al. | [Operationalizing Machine Learning: An Interview Study](https://arxiv.org/pdf/2209.09125v1.pdf) | From the abstract: They conducted interviews with 18 MLEs working across many applications, touching on how "Velocity", "Validation", and "Versioning" govern project success (in terms of deployment and long-term maintanence, and they also discuss interviewees’ pain points
+and anti-patterns. | 2022
+
 
 ## BI and Analytics Within an Organization
 
@@ -203,7 +206,6 @@ Author | Title | One-sentence summary | Year
 * Add the following posts:
     * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
     * https://seattledataguy.substack.com/p/onboarding-for-data-teams
-    * https://arxiv.org/pdf/2209.09125v1.pdf
     * https://newsletter.pragmaticengineer.com/p/year-1
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
