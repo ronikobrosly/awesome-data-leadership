@@ -13,7 +13,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Project Management](#project-management) (6)
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (16)
-- [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (9)
+- [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (10)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (12)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (7)
@@ -140,6 +140,7 @@ Author | Title | One-sentence summary | Year
 [Alfred Spector](https://www.linkedin.com/in/alfred-spector/), [Peter Norvig](https://www.linkedin.com/in/pnorvig/), [Chris Wiggins](https://datascience.columbia.edu/people/chris-h-wiggins/), and [Jeannette M. Wing](https://datascience.columbia.edu/people/jeannette-m-wing/) | [Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/manuscript/) | A pre-release of a book that gives a thorough accounting of the history of Data Science, a high-level understanding of its applications, and the ethical and social concerns associated with it. | 2022
 [Brooke Carter](https://eng.uber.com/author/brooke-carter/), [Melissa Barr](https://www.linkedin.com/in/melissabarr1/), and [Michael Mui](https://eng.uber.com/author/michael-mui/) | [ML Education at Uber: Frameworks Inspired by Engineering Principles](https://eng.uber.com/ml-education-at-uber/) | Provides an overview of the philosophy behind Uber's ML education program. | 2022
 [Eyal Trabelsi](https://il.linkedin.com/in/eyaltrabelsi) | [How to build TRUST in Machine Learning, the sane way](https://medium.com/bigabids-dataverse/how-to-build-trust-in-machine-learning-the-sane-way-39d879f22e69) | Provides suggestions on how teams can improve trust in ML in their org, including defining metrics up front, following some best practices when developing the model, A/B testing the model upon deployment, and more. | 2022
+[Andrew Lukyanenko](https://www.linkedin.com/in/andlukyane/?originalSubdomain=ru) | [Lessons learned after 10 years in IT: What I have learned from my mistakes and successes](https://artgor.medium.com/lessons-learned-after-10-years-in-it-1489ad39280e) | A senior data scientist gives general DS career (some of which is worth noting as a leader) including topics around interviewing, productivity, communication, time estimation, and more. | 2022
 
 ## BI and Analytics Within an Organization
 
@@ -202,7 +203,6 @@ Author | Title | One-sentence summary | Year
     * https://newsletter.pragmaticengineer.com/p/year-1
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
-    * https://artgor.medium.com/lessons-learned-after-10-years-in-it-1489ad39280e
     * https://www.getdbt.com/data-teams/hiring-data-engineer/
     * https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/
     * https://roundup.getdbt.com/p/four-frameworks-for-self-service?triedSigningIn=true
