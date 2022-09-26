@@ -196,6 +196,7 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
+    * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
     * https://seattledataguy.substack.com/p/onboarding-for-data-teams
     * https://arxiv.org/pdf/2209.09125v1.pdf
     * https://newsletter.pragmaticengineer.com/p/year-1
