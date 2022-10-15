@@ -189,6 +189,7 @@ Author | Title | One-sentence summary | Year
 [Jean-Georges Perrin](https://www.linkedin.com/in/jgperrin/) | [The next generation of Data Platforms is the Data Mesh](https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522) | The post summarizes [Zhamak Dehghani's proposal](https://martinfowler.com/articles/data-monolith-to-mesh.html) for transitioning from current breadth-first data platforms (end-to-end data lifecycle) into vertical/depth-first architectures (one business domain at a time). | 2022
 [Gabrielle Davelaar](https://www.linkedin.com/in/gabrielle-davelaar-755b731b/?originalSubdomain=nl) and [Jordan Edwards](https://www.linkedin.com/in/msftjordane/) | [DevOps for AI - Microsoft](https://www.youtube.com/watch?v=HwZlGQuCTj4) | Great talk outlines how DevOps principles can be applied to AI, and then shows in detail how CI/CD, version control, model storage, and more fit into a great MLOps process. | 2018
 [Kevin Hu](https://linkedin.com/in/kevinzenghu) | [The Four Pillars of Data Observability](https://www.metaplane.dev/blog/the-four-pillars-of-data-observability) | Provides a definition of data observability and how in the context of a data platform this includes the following facets: metrics, lineage, metadata, and logs.  | 2022
+[Stefan Krawczyk](https://www.linkedin.com/in/skrawczyk/) | [What I Learned Building Platforms at Stitch Fix: Five lessons learned while building platforms for Data Scientists.](https://towardsdatascience.com/what-i-learned-building-platforms-at-stitch-fix-fc5e0ec72c86/) | The author describes 5 lessons learned in building a data science platform, including things like don't build them for all possible users, abstract away any underlying APIs to simplify things for end-users. | 2022
 
 
 ## Data Governance
@@ -203,7 +204,6 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
-    * https://towardsdatascience.com/what-i-learned-building-platforms-at-stitch-fix-fc5e0ec72c86
     * https://hex.tech/blog/storytellers-and-system-builders/
     * https://metadataweekly.substack.com/p/metadata-weekly-37?r=1r9be&s=r&utm_campaign=post&utm_medium=web
     * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
