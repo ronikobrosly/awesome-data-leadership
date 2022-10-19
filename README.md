@@ -14,7 +14,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (16)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (11)
-- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (12)
+- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (14)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (8)
 - [Data Governance](#data-governance) (3)
@@ -165,6 +165,8 @@ Author | Title | One-sentence summary | Year
 [Marie Lefevre](https://marie-lefevre.medium.com/) | [Not All Data Requests Are Urgent, So Start by Asking These 5 Questions](https://towardsdatascience.com/not-all-data-requests-are-urgent-so-start-by-asking-these-5-questions-ad77d1fbe7dd) | Details five questions the authors typically asks of those that request analyses: Why? Why again? Who is it for? When is it due? Is it more of a priority than that other request? | 2022
 [Amplitude](https://amplitude.com/) | [The North Star Playbook: The guide to discovering your product’s North Star](https://amplitude.com/north-star/why-use-the-north-star-framework) | A short book intended for product managers and product designers that describes the value of North Star metrics and how to iddentify them. | 2018
 [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz) | [Checklist used at Uber to determine if something is urgent](https://threadreaderapp.com/thread/1542061516912037890.html) | 1. What is the impact? 2. Do you have a signed spec answering the *why* and the *what*? 3. Do you have **your** estimate of the cost? 4. Make the **cost of dropping** what you're doing very clear. | 2022
+[Dan Frank](https://medium.com/@danfrankj) | [Experimentation Platform in a Day](https://medium.com/deliberate-data-science/experimentation-platform-in-a-day-c60646ef1a2) | A short technical (but very accessible guide) to setting up a simple experimentation "platform" with elements of logging, measurement, assignment, and analysis. | 2022
+[Ron Kohavi, Diane Tang, and Ya Xu](https://experimentguide.com/about/) | [Trustworthy Online Controlled Experiments : A Practical Guide to A/B Testing](https://experimentguide.com/) | A fantastic introductory book on A/B testing for program and feature evaluation; covers methods, interpretation, biases that can arise, and culture around experimentation. | 2020
 
 
 ## Management Skills
