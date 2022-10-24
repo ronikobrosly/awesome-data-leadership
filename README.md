@@ -6,7 +6,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 # Topics (with # of links)
 
 - [Hiring](#hiring) (12)
-- [Culture](#culture) (11)
+- [Culture](#culture) (12)
 - [Impact](#impact) (6)
 - [Strategy](#strategy) (7)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
@@ -52,7 +52,7 @@ Author | Title | One-sentence summary | Year
 [Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [A Culture of Partnership](https://locallyoptimistic.com/post/culture_of_partnership/) | Building a culture of partnership on your analytics team is crucial to maximizing the impact your team can have. | 2019
 [Benn Stancil](https://www.linkedin.com/in/benn-stancil/) | [Do data-driven companies actually win?](https://benn.substack.com/p/do-data-driven-companies-win) | Article discusses how much a data-driven culture actually contributes to a company's successs through a handful of hypothetical fashion companies. | 2022
 [Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), [Katie Malone](https://www.linkedin.com/in/caitlin-malone-46050854/) | [The Care and Feeding of Data Scientists, Chapter 4](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "Fear and Loathing in Data Science" offers concrete tips on culture that help to retain your best people. | 2019
-
+[Benjamin Rogojan](https://www.linkedin.com/in/benjaminrogojan/) | [Onboarding For Data Teams](https://medium.com/coriers/onboarding-for-data-teams-100e041a012c) | The costs (both opportunity costs and retention problems) of poor onboarding are great, to help with this the author writes about 'Onboarding For Context', 'Environment Set-Up', and the concept of 'Commit Something Day One'. | 2022
 
 
 ## Impact
@@ -209,7 +209,6 @@ Author | Title | One-sentence summary | Year
     * https://hex.tech/blog/storytellers-and-system-builders/
     * https://metadataweekly.substack.com/p/metadata-weekly-37?r=1r9be&s=r&utm_campaign=post&utm_medium=web
     * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
-    * https://seattledataguy.substack.com/p/onboarding-for-data-teams
     * https://newsletter.pragmaticengineer.com/p/year-1
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
