@@ -6,7 +6,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 # Topics (with # of links)
 
 - [Hiring](#hiring) (12)
-- [Culture](#culture) (12)
+- [Culture](#culture) (13)
 - [Impact](#impact) (6)
 - [Strategy](#strategy) (7)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
@@ -53,6 +53,7 @@ Author | Title | One-sentence summary | Year
 [Benn Stancil](https://www.linkedin.com/in/benn-stancil/) | [Do data-driven companies actually win?](https://benn.substack.com/p/do-data-driven-companies-win) | Article discusses how much a data-driven culture actually contributes to a company's successs through a handful of hypothetical fashion companies. | 2022
 [Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), [Katie Malone](https://www.linkedin.com/in/caitlin-malone-46050854/) | [The Care and Feeding of Data Scientists, Chapter 4](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "Fear and Loathing in Data Science" offers concrete tips on culture that help to retain your best people. | 2019
 [Benjamin Rogojan](https://www.linkedin.com/in/benjaminrogojan/) | [Onboarding For Data Teams](https://medium.com/coriers/onboarding-for-data-teams-100e041a012c) | The costs (both opportunity costs and retention problems) of poor onboarding are great, to help with this the author writes about 'Onboarding For Context', 'Environment Set-Up', and the concept of 'Commit Something Day One'. | 2022
+[Prukalpa Sankar](https://www.linkedin.com/in/prukalpa) | [The “knowledge-creating” company, a big announcement and other takeaways from dbt Coalesce](https://metadataweekly.substack.com/p/metadata-weekly-40) | Prukalpa provides thoughts around this great quote from an early 90's HBR article: "...markets shift, technologies proliferate, competitors multiply, and products become obsolete almost overnight, successful companies are those that consistently create new knowledge, disseminate it widely throughout the organization, and quickly embody it in new technologies and products; these activities define the ‘knowledge-creating’ company, whose sole business is continuous innovation." | 2022
 
 
 ## Impact
