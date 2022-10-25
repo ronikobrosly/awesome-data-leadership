@@ -5,7 +5,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 
 # Topics (with # of links)
 
-- [Hiring](#hiring) (12)
+- [Hiring](#hiring) (13)
 - [Culture](#culture) (13)
 - [Impact](#impact) (6)
 - [Strategy](#strategy) (7)
@@ -35,6 +35,7 @@ Author | Title | One-sentence summary | Year
 [Jike Chong](https://www.linkedin.com/in/jikechong/), [Ben Lorica](https://www.linkedin.com/in/benlorica/), [Yue Cathy Chang](https://www.linkedin.com/in/yuechang/) | [Top Places to Work for Data Scientists: We identify U.S. organizations that will help you develop your career in data science](https://gradientflow.com/top-places-to-work-for-data-scientists?utm_source=Data_Elixir&utm_medium=social) | Looks at factors that make a data science org attractive to an IC, but this provides some insights for hiring managers trying to get in the heads of talent. | 2022
 [Randy Au](https://www.linkedin.com/in/randy-au-5563372b/) | [Let's talk a bit about giving interviews](https://counting.substack.com/p/lets-talk-a-bit-about-giving-interviews?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387&s=r) | Gives thoughts on planning and carrying out a technical data science interview. | 2022
 [Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), [Katie Malone](https://www.linkedin.com/in/caitlin-malone-46050854/) | [The Care and Feeding of Data Scientists, Chapters 2 and 3](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "How to Win Friends and Recruit Data Scientists" and "Interview with the Data Scientist" has tips on recruiting and interviewing. | 2019
+[Dip Ranjan Chatterjee](https://www.linkedin.com/in/dip-chatterjee-13231417) | [The Data Science Interview Book](https://dipranjan.github.io/dsinterviewqns/intro.html) | A very comprehensive set of topics to interview data science candidates with (spans statistics, ML, NLP, etc). | 2022
 
 
 ## Culture
