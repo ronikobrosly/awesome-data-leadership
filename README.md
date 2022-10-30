@@ -208,6 +208,7 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
+    * https://sarahsnewsletter.substack.com/p/the-analytics-requirements-document
     * https://hex.tech/blog/storytellers-and-system-builders/
     * https://metadataweekly.substack.com/p/metadata-weekly-37?r=1r9be&s=r&utm_campaign=post&utm_medium=web
     * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
