@@ -209,6 +209,7 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
+    * https://datacreation.substack.com/p/why-data-contracts-are-obviously?utm_source=substack&utm_medium=email
     * https://cghlewis.com/blog/data_dictionary/
     * https://sarahsnewsletter.substack.com/p/the-analytics-requirements-document
     * https://hex.tech/blog/storytellers-and-system-builders/
