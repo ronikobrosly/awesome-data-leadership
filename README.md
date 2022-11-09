@@ -16,7 +16,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (11)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (15)
 - [Management Skills](#management-skills) (6)
-- [Data Platforms](#data-platforms) (8)
+- [Data Platforms](#data-platforms) (9)
 - [Data Governance](#data-governance) (3)
 
 
@@ -197,6 +197,7 @@ Author | Title | One-sentence summary | Year
 [Gabrielle Davelaar](https://www.linkedin.com/in/gabrielle-davelaar-755b731b/?originalSubdomain=nl) and [Jordan Edwards](https://www.linkedin.com/in/msftjordane/) | [DevOps for AI - Microsoft](https://www.youtube.com/watch?v=HwZlGQuCTj4) | Great talk outlines how DevOps principles can be applied to AI, and then shows in detail how CI/CD, version control, model storage, and more fit into a great MLOps process. | 2018
 [Kevin Hu](https://linkedin.com/in/kevinzenghu) | [The Four Pillars of Data Observability](https://www.metaplane.dev/blog/the-four-pillars-of-data-observability) | Provides a definition of data observability and how in the context of a data platform this includes the following facets: metrics, lineage, metadata, and logs.  | 2022
 [Stefan Krawczyk](https://www.linkedin.com/in/skrawczyk/) | [What I Learned Building Platforms at Stitch Fix: Five lessons learned while building platforms for Data Scientists.](https://towardsdatascience.com/what-i-learned-building-platforms-at-stitch-fix-fc5e0ec72c86/) | The author describes 5 lessons learned in building a data science platform, including things like don't build them for all possible users, abstract away any underlying APIs to simplify things for end-users. | 2022
+[Lak Lakshmanan](https://www.linkedin.com/in/valliappalakshmanan/) | [No, you don’t need MLOps: Keep It Simple: the complexity of full MLOps is rarely needed](https://lakshmanok.medium.com/no-you-dont-need-mlops-5e1ce9fdaa4b) | In counterpoint to all the buzz, the author warns that MLOps is no panacea, and can often automate away important detail or cause a large amount of technical debt that ultimately doesn't save time. | 2022
 
 
 ## Data Governance
@@ -211,7 +212,6 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
-    * https://lakshmanok.medium.com/no-you-dont-need-mlops-5e1ce9fdaa4b
     * https://datacreation.substack.com/p/why-data-contracts-are-obviously?utm_source=substack&utm_medium=email
     * https://cghlewis.com/blog/data_dictionary/
     * https://sarahsnewsletter.substack.com/p/the-analytics-requirements-document
