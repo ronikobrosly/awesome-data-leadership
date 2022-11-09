@@ -8,7 +8,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Hiring](#hiring) (13)
 - [Culture](#culture) (13)
 - [Impact](#impact) (6)
-- [Strategy](#strategy) (7)
+- [Strategy](#strategy) (8)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
 - [Project Management](#project-management) (7)
 - [Code Review](#code-review) (3)
@@ -80,6 +80,7 @@ Author | Title | One-sentence summary | Year
 [Leo Polovets](https://www.linkedin.com/in/lpolovets/) | [The Value of Data, Part 1: Using Data as a Competitive Advantage](https://www.codingvc.com/p/the-value-of-data-part-1-using-data-as-a-competitive-advantage) | Software and hardware infrastructure are becoming commoditized, so data you generate gives you the advantage; data helps you make good content recommendations, helps with ad targetting, gives you actionable insights, makes operations more efficient, and more. | 2015
 [Leo Polovets](https://www.linkedin.com/in/lpolovets/) | [The Value of Data, Part 2: Building Valuable Datasets](https://www.codingvc.com/p/the-value-of-data-part-2-building-valuable-datasets) | Describes the attributes of high-value datasets, common approaches for capturing this data, and common pitfalls people fall into during this process (e.g. consider the law of diminishing returns, how clean is your data, etc.) | 2015
 [Leo Polovets](https://www.linkedin.com/in/lpolovets/) | [The Value of Data, Part 3: Data Business Models](https://www.codingvc.com/p/the-value-of-data-part-3-data-business-models) | Final post in this series describes the concept of a "Data Business Model", the reality of how data can be monetized with examples of companies in each scenario. | 2015
+[Emilie Schario](https://www.linkedin.com/in/emilieschario/) and [Taylor A Murphy](https://www.linkedin.com/in/tayloramurphy/) | [Run Your Data Team Like A Product Team](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/) | Service-oriented data teams aren’t effective, and the authors suggest running the data team like a product team is ideal, where you take a more active roll in defining your org's success metrics and push the business forward in a more active way. | 2021
 
 
 ## Diversity Equity and Inclusion
@@ -221,7 +222,6 @@ Author | Title | One-sentence summary | Year
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
     * https://www.getdbt.com/data-teams/hiring-data-engineer/
-    * https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/
     * https://roundup.getdbt.com/p/four-frameworks-for-self-service?triedSigningIn=true
     * https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
     * https://www.caitlinhudon.com/posts/2017/11/14/data-meta-metrics
