@@ -213,17 +213,15 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
-    * https://datacreation.substack.com/p/why-data-contracts-are-obviously?utm_source=substack&utm_medium=email
+    * https://datacreation.substack.com/p/why-data-contracts-are-obviously
     * https://cghlewis.com/blog/data_dictionary/
     * https://sarahsnewsletter.substack.com/p/the-analytics-requirements-document
     * https://hex.tech/blog/storytellers-and-system-builders/
-    * https://metadataweekly.substack.com/p/metadata-weekly-37?r=1r9be&s=r&utm_campaign=post&utm_medium=web
+    * https://metadataweekly.substack.com/p/metadata-weekly-37
     * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
     * https://newsletter.pragmaticengineer.com/p/year-1
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
     * https://www.getdbt.com/data-teams/hiring-data-engineer/
-    * https://roundup.getdbt.com/p/four-frameworks-for-self-service?triedSigningIn=true
-    * https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
+    * https://roundup.getdbt.com/p/four-frameworks-for-self-service
     * https://locallyoptimistic.com/post/building-a-data-practice/
-    * https://go.beondeck.com/ds-managers-guide-recording?_hsmi=218113162&_hsenc=p2ANqtz--mikSA5CkIpCU1jwuq1G3IbwHv2-hbVnfdXyn0S8r1wrGhXrFohUgmKWnP-dxTw_1clYj-CK1qU4HbvlVRQxFr22yonQ
