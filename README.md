@@ -14,7 +14,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (17)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (11)
-- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (14)
+- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (15)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (8)
 - [Data Governance](#data-governance) (3)
@@ -170,6 +170,7 @@ Author | Title | One-sentence summary | Year
 [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz) | [Checklist used at Uber to determine if something is urgent](https://threadreaderapp.com/thread/1542061516912037890.html) | 1. What is the impact? 2. Do you have a signed spec answering the *why* and the *what*? 3. Do you have **your** estimate of the cost? 4. Make the **cost of dropping** what you're doing very clear. | 2022
 [Dan Frank](https://medium.com/@danfrankj) | [Experimentation Platform in a Day](https://medium.com/deliberate-data-science/experimentation-platform-in-a-day-c60646ef1a2) | A short technical (but very accessible guide) to setting up a simple experimentation "platform" with elements of logging, measurement, assignment, and analysis. | 2022
 [Ron Kohavi, Diane Tang, and Ya Xu](https://experimentguide.com/about/) | [Trustworthy Online Controlled Experiments : A Practical Guide to A/B Testing](https://experimentguide.com/) | A fantastic introductory book on A/B testing for program and feature evaluation; covers methods, interpretation, biases that can arise, and culture around experimentation. | 2020
+W.D. (ryxcommar@gmail.com) | [Caveats and Limitations of A/B Testing at Growth Tech Companies](https://ryxcommar.com/2022/11/07/caveats-and-limitations-of-a-b-testing-at-growth-tech-companies/) | Highlights an issue of A/B tests where over time effect sizes tend to shrink, and growth companies can find themselves in a situation where the statistical power benefits of a growing user base are outweighed by this diminishing returns effect. | 2022
 
 
 ## Management Skills
@@ -209,7 +210,6 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
-    * https://ryxcommar.com/2022/11/07/caveats-and-limitations-of-a-b-testing-at-growth-tech-companies/
     * https://lakshmanok.medium.com/no-you-dont-need-mlops-5e1ce9fdaa4b
     * https://datacreation.substack.com/p/why-data-contracts-are-obviously?utm_source=substack&utm_medium=email
     * https://cghlewis.com/blog/data_dictionary/
