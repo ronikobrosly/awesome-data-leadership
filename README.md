@@ -209,6 +209,8 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
+    * https://ryxcommar.com/2022/11/07/caveats-and-limitations-of-a-b-testing-at-growth-tech-companies/
+    * https://lakshmanok.medium.com/no-you-dont-need-mlops-5e1ce9fdaa4b
     * https://datacreation.substack.com/p/why-data-contracts-are-obviously?utm_source=substack&utm_medium=email
     * https://cghlewis.com/blog/data_dictionary/
     * https://sarahsnewsletter.substack.com/p/the-analytics-requirements-document
