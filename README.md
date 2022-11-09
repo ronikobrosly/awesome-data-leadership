@@ -14,7 +14,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (17)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (11)
-- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (15)
+- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (16)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (9)
 - [Data Governance](#data-governance) (3)
@@ -172,6 +172,7 @@ Author | Title | One-sentence summary | Year
 [Dan Frank](https://medium.com/@danfrankj) | [Experimentation Platform in a Day](https://medium.com/deliberate-data-science/experimentation-platform-in-a-day-c60646ef1a2) | A short technical (but very accessible guide) to setting up a simple experimentation "platform" with elements of logging, measurement, assignment, and analysis. | 2022
 [Ron Kohavi, Diane Tang, and Ya Xu](https://experimentguide.com/about/) | [Trustworthy Online Controlled Experiments : A Practical Guide to A/B Testing](https://experimentguide.com/) | A fantastic introductory book on A/B testing for program and feature evaluation; covers methods, interpretation, biases that can arise, and culture around experimentation. | 2020
 W.D. (ryxcommar@gmail.com) | [Caveats and Limitations of A/B Testing at Growth Tech Companies](https://ryxcommar.com/2022/11/07/caveats-and-limitations-of-a-b-testing-at-growth-tech-companies/) | Highlights an issue of A/B tests where over time effect sizes tend to shrink, and growth companies can find themselves in a situation where the statistical power benefits of a growing user base are outweighed by this diminishing returns effect. | 2022
+[Tristan Handy](https://www.linkedin.com/in/tristanhandy/) | [The Startup Founder’s Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1) | Although written in 2017, this article gives a still relevant high-level overview on creating the analytics competency at your org, at different levels of company size. | 2017
 
 
 ## Management Skills
@@ -224,7 +225,5 @@ Author | Title | One-sentence summary | Year
     * https://www.getdbt.com/data-teams/hiring-data-engineer/
     * https://roundup.getdbt.com/p/four-frameworks-for-self-service?triedSigningIn=true
     * https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
-    * https://www.caitlinhudon.com/posts/2017/11/14/data-meta-metrics
-    * https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1
     * https://locallyoptimistic.com/post/building-a-data-practice/
     * https://go.beondeck.com/ds-managers-guide-recording?_hsmi=218113162&_hsenc=p2ANqtz--mikSA5CkIpCU1jwuq1G3IbwHv2-hbVnfdXyn0S8r1wrGhXrFohUgmKWnP-dxTw_1clYj-CK1qU4HbvlVRQxFr22yonQ
