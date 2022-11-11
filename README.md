@@ -219,8 +219,5 @@ Author | Title | One-sentence summary | Year
     * https://cghlewis.com/blog/data_dictionary/
     * https://sarahsnewsletter.substack.com/p/the-analytics-requirements-document
     * https://hex.tech/blog/storytellers-and-system-builders/
-    * https://metadataweekly.substack.com/p/metadata-weekly-37
     * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
-    * https://newsletter.pragmaticengineer.com/p/year-1
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
-    * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
