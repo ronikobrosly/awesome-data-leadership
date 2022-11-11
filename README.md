@@ -17,7 +17,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (16)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (9)
-- [Data Governance](#data-governance) (3)
+- [Data Governance](#data-governance) (4)
 
 
 ## Hiring
@@ -212,13 +212,12 @@ Author | Title | One-sentence summary | Year
 [Sanjana Sen](https://www.linkedin.com/in/sensanjana/) and [Stephen Bailey](https://www.linkedin.com/in/stkbailey/) | [Locally Optimistic Meetup - Governance and Compliance](https://www.youtube.com/watch?v=HHD-MLL8hPE) | A conversation among many data practitioners about how their organizations handle data access control, data tagging, anonymization, and other key compliance activities, and what frameworks they have found helpful. | 2020
 [Bryan Petzold](https://www.linkedin.com/in/bryan-petzold/), [Matthias Roggendorf](https://www.linkedin.com/in/matthias-roggendorf-2a2aa3/?originalSubdomain=de), [Kayvaun Rowshankish](https://www.linkedin.com/in/kayvaunrowshankish/), and [Christoph Sporleder](https://www.linkedin.com/in/christoph-sporleder-3b21411/?originalSubdomain=de) | [Designing data governance that delivers value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/designing-data-governance-that-delivers-value) | Briefly surveys the problem of poor data governance, describes an idea data governance model, and provides six ways to drive data-governance excellence. | 2020 
 [Ilan Man](https://www.linkedin.com/in/ilanman/) | [People-first Data stacks](https://locallyoptimistic.com/post/people-first-data-stacks/) | Proposes switching from tech- to user-centric data management by i) integrating data into company culture (raising awareness, tracking adoption); ii) making data governance options actionable for stakeholders outside of the data platform and iii) introducing ownership of tests on data quality. | 2022
-
+[Yali Sassoon](https://uk.linkedin.com/in/yalisassoon) | [Why Data Contracts are Obviously a Good Idea. And why there is so much resistance to this idea from the community around the Modern Data Stack ](https://datacreation.substack.com/p/why-data-contracts-are-obviously) | Briefly describes the importance of data contracts, provides an example of a complaint against contracts, and then how complaints arise because practitioners are stuck in the “data is oil” paradigm i.e. assume that the data is extracted, rather than deliberately creating data. | 2022
 
 
 ## TODOs:
 
 * Add the following posts:
-    * https://datacreation.substack.com/p/why-data-contracts-are-obviously
     * https://cghlewis.com/blog/data_dictionary/
     * https://sarahsnewsletter.substack.com/p/the-analytics-requirements-document
     * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
