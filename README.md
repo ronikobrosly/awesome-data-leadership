@@ -5,7 +5,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 
 # Topics (with # of links)
 
-- [Hiring](#hiring) (13)
+- [Hiring](#hiring) (14)
 - [Culture](#culture) (13)
 - [Impact](#impact) (6)
 - [Strategy](#strategy) (9)
@@ -36,6 +36,7 @@ Author | Title | One-sentence summary | Year
 [Randy Au](https://www.linkedin.com/in/randy-au-5563372b/) | [Let's talk a bit about giving interviews](https://counting.substack.com/p/lets-talk-a-bit-about-giving-interviews?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387&s=r) | Gives thoughts on planning and carrying out a technical data science interview. | 2022
 [Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), [Katie Malone](https://www.linkedin.com/in/caitlin-malone-46050854/) | [The Care and Feeding of Data Scientists, Chapters 2 and 3](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "How to Win Friends and Recruit Data Scientists" and "Interview with the Data Scientist" has tips on recruiting and interviewing. | 2019
 [Dip Ranjan Chatterjee](https://www.linkedin.com/in/dip-chatterjee-13231417) | [The Data Science Interview Book](https://dipranjan.github.io/dsinterviewqns/intro.html) | A very comprehensive set of topics to interview data science candidates with (spans statistics, ML, NLP, etc). | 2022
+[Tristan Handy](https://www.linkedin.com/in/tristanhandy/) | [When to hire a data engineer?](https://www.getdbt.com/data-teams/hiring-data-engineer/) | Article makes the claim that increasingly data analysts and scientists are working on ETL pipelines themselves (with the help of Stitch, Fivetran, dbt, etc.) but data engineers are still essential for: managing core data infrastructure, building and maintaining custom ingestion pipelines, supporting data team resources with design and performance optimization, and building non-SQL transformation pipelines. | 2022
 
 
 ## Culture
@@ -223,5 +224,3 @@ Author | Title | One-sentence summary | Year
     * https://newsletter.pragmaticengineer.com/p/year-1
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
     * https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
-    * https://www.getdbt.com/data-teams/hiring-data-engineer/
-    * https://roundup.getdbt.com/p/four-frameworks-for-self-service
