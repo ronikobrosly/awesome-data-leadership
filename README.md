@@ -9,7 +9,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Culture](#culture) (13)
 - [Impact](#impact) (6)
 - [Strategy](#strategy) (9)
-- [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (2)
+- [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (3)
 - [Project Management](#project-management) (7)
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (17)
@@ -91,6 +91,7 @@ Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Sergio Morales](https://medium.com/@fireblend) | [Future-proof your Analytics Efforts in 2020: Hire Diverse Teams](https://towardsdatascience.com/future-proof-your-analytics-efforts-hire-diverse-teams-9e8f9a471859) | Post describes how data team diversity deters bias and encourages curiosity, skepticism and analytical thinking; attributes any analytics enterprise will highly value. | 2020
 [Swathi Young](https://www.linkedin.com/in/swathiyoung) | [How To Make Sure That Diversity In AI Works](https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/?sh=37ecf0cd567a) | Post provides guidance on how management teams can build diverse AI teams, including suggestions like restructuring talent acquisition, thinking through pay parity, and more. | 2021
+[Gergely Orosz](https://www.linkedin.com/in/gergelyorosz) | [Hiring (and Retaining) a Diverse Engineering Team](https://blog.pragmaticengineer.com/hiring-a-diverse-engineering-team/) | Stories from six engineering leaders who succeeded in building and growing diverse teams | 2021
 
 
 ## Project Management
