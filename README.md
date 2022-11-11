@@ -12,7 +12,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (3)
 - [Project Management](#project-management) (7)
 - [Code Review](#code-review) (3)
-- [Organization Structure and Job Titles](#organization-structure-and-job-titles) (17)
+- [Organization Structure and Job Titles](#organization-structure-and-job-titles) (18)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (11)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (16)
 - [Management Skills](#management-skills) (6)
@@ -137,6 +137,8 @@ Author | Title | One-sentence summary | Year
 [Kurt Cagle](https://medium.com/@kurtcagle) | [Why You Don’t Need Data Scientists](https://medium.com/@kurtcagle/why-you-dont-need-data-scientists-a9654cc9f0e4) | Early in an organization's data maturity stage, you don't need "data scientists" and machine learning people, you instead need to focus on data quality and ontological engineering problems. | 2018
 [Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), [Katie Malone](https://www.linkedin.com/in/caitlin-malone-46050854/) | [The Care and Feeding of Data Scientists, Chapter 6](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "Chutes and Career Ladders" discusses how to write a great career ladder for your team. | 2019
 [Benjamin Rogojan](https://www.linkedin.com/in/benjaminrogojan/) | [Different Types Of "Data Engineering" Teams](https://seattledataguy.substack.com/p/different-types-of-data-engineering) | Post gives nice overview of the various flavors of data engineering roles in organizations (including software engineers, data platform engineers, etc). | 2022
+[Morgan Krey](https://www.linkedin.com/in/morgan-krey/) | [Storytellers and System Builders: A New Way to Think About Data Roles](https://hex.tech/blog/storytellers-and-system-builders/) | There has been a proliferation of "data X" roles (e.g. data engineer, data scientist, data analyst, etc) but the author argues that there are really just two kinds of data practitioners: system builders (your engineers that build pipelines, schedule jobs, stand up APIs, etc.) and storytellers (looking for actionable insights, visualizing data on dashboards, etc). | 2022
+
 
 ## ML and AI Within an Organization
 
@@ -219,6 +221,5 @@ Author | Title | One-sentence summary | Year
     * https://datacreation.substack.com/p/why-data-contracts-are-obviously
     * https://cghlewis.com/blog/data_dictionary/
     * https://sarahsnewsletter.substack.com/p/the-analytics-requirements-document
-    * https://hex.tech/blog/storytellers-and-system-builders/
     * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
