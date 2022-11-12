@@ -218,6 +218,7 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
+    * https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3454379
     * https://cghlewis.com/blog/data_dictionary/
     * https://sarahsnewsletter.substack.com/p/the-analytics-requirements-document
     * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
