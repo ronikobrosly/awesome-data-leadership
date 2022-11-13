@@ -223,3 +223,5 @@ Author | Title | One-sentence summary | Year
     * https://sarahsnewsletter.substack.com/p/the-analytics-requirements-document
     * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
+    * https://arxiv.org/pdf/2205.02302.pdf
+    * https://www.techrxiv.org/articles/preprint/Requirements_and_Reference_Architecture_for_MLOps_Insights_from_Industry/21397413
