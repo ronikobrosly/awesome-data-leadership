@@ -225,3 +225,6 @@ Author | Title | One-sentence summary | Year
     * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
     * https://arxiv.org/pdf/2205.02302.pdf
     * https://www.techrxiv.org/articles/preprint/Requirements_and_Reference_Architecture_for_MLOps_Insights_from_Industry/21397413
+    * https://medium.com/@koendit/whats-the-big-deal-about-data-products-26ac347b7d7a
+    * https://docs.getdbt.com/blog/demystifying-event-streams?utm_source=substack&utm_medium=email
+    * https://betterprogramming.pub/architecture-of-modern-startup-abaec235c2eb
