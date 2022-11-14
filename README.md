@@ -5,7 +5,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 
 # Topics (with # of links)
 
-- [Hiring](#hiring) (14)
+- [Hiring](#hiring) (15)
 - [Culture](#culture) (13)
 - [Impact](#impact) (6)
 - [Strategy](#strategy) (9)
@@ -37,6 +37,7 @@ Author | Title | One-sentence summary | Year
 [Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), [Katie Malone](https://www.linkedin.com/in/caitlin-malone-46050854/) | [The Care and Feeding of Data Scientists, Chapters 2 and 3](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "How to Win Friends and Recruit Data Scientists" and "Interview with the Data Scientist" has tips on recruiting and interviewing. | 2019
 [Dip Ranjan Chatterjee](https://www.linkedin.com/in/dip-chatterjee-13231417) | [The Data Science Interview Book](https://dipranjan.github.io/dsinterviewqns/intro.html) | A very comprehensive set of topics to interview data science candidates with (spans statistics, ML, NLP, etc). | 2022
 [Tristan Handy](https://www.linkedin.com/in/tristanhandy/) | [When to hire a data engineer?](https://www.getdbt.com/data-teams/hiring-data-engineer/) | Article makes the claim that increasingly data analysts and scientists are working on ETL pipelines themselves (with the help of Stitch, Fivetran, dbt, etc.) but data engineers are still essential for: managing core data infrastructure, building and maintaining custom ingestion pipelines, supporting data team resources with design and performance optimization, and building non-SQL transformation pipelines. | 2022
+[Jacob Kaplan-Moss](https://www.linkedin.com/in/jacobian/) | [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) | This post discusses the other side of the hiring table, and gives great questions a candidate for a Director or VP-level engineering leadership role should be asking (though this post could also be helpful to hiring team thinking through the scope of a Director or VP-level role). | 2019
 
 
 ## Culture
