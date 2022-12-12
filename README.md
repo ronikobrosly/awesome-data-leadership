@@ -6,7 +6,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 # Topics (with # of links)
 
 - [Hiring](#hiring) (15)
-- [Culture](#culture) (14)
+- [Culture](#culture) (15)
 - [Impact](#impact) (6)
 - [Strategy](#strategy) (9)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (3)
@@ -58,6 +58,7 @@ Author | Title | One-sentence summary | Year
 [Benjamin Rogojan](https://www.linkedin.com/in/benjaminrogojan/) | [Onboarding For Data Teams](https://medium.com/coriers/onboarding-for-data-teams-100e041a012c) | The costs (both opportunity costs and retention problems) of poor onboarding are great, to help with this the author writes about 'Onboarding For Context', 'Environment Set-Up', and the concept of 'Commit Something Day One'. | 2022
 [Prukalpa Sankar](https://www.linkedin.com/in/prukalpa) | [The “knowledge-creating” company, a big announcement and other takeaways from dbt Coalesce](https://metadataweekly.substack.com/p/metadata-weekly-40) | Prukalpa provides thoughts around this great quote from an early 90's HBR article: "...markets shift, technologies proliferate, competitors multiply, and products become obsolete almost overnight, successful companies are those that consistently create new knowledge, disseminate it widely throughout the organization, and quickly embody it in new technologies and products; these activities define the ‘knowledge-creating’ company, whose sole business is continuous innovation." | 2022
 [Christine Garcia](https://www.linkedin.com/in/garciachristine/) | [The secrets of a modern data leader: The first 365 days inside a data team](https://www.youtube.com/watch?v=jt2Q0f5TUEc) | Fantastic video covering how leaders should nurture their data teams, build the right team values, establish governance inside the team, create cadences and rituals, etc. | 2022
+[Claire Carroll](https://www.linkedin.com/in/clrcrl/) | [Data education is broken](https://analyticsengineers.club/data-education-is-broken/) | The post explores the disconnect between data education and real data practice in industry (e.g. analyzing static flat files in R, Pandas, or SPSS compared with using SQL along with tools like git, dbt, Airflow, VSCode, etc), why this occurs, and the effects it has on the data industry. | 2021
 
 
 ## Impact
