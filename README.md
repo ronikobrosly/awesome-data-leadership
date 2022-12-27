@@ -10,7 +10,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Impact](#impact) (6)
 - [Strategy](#strategy) (9)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (3)
-- [Project Management](#project-management) (7)
+- [Project Management](#project-management) (8)
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (18)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (11)
@@ -108,6 +108,7 @@ Author | Title | One-sentence summary | Year
 [Michael Kaminsky](https://www.linkedin.com/in/michael-the-data-guy-kaminsky/) | [Agile Analytics, Part 3: The Adjustments](https://locallyoptimistic.com/post/agile-analytics-p3/) | Adjustments are suggested for agile to work well on a data team: time-bound spikes for research, build in slack time for exploration, acceptance criteria includes “write the next story”, peer-review instead of sprint-review. | 2018
 [Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), [Katie Malone](https://www.linkedin.com/in/caitlin-malone-46050854/) | [The Care and Feeding of Data Scientists, Chapter 5](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "To Agile or Not to Agile". | 2019
 [Oscar Baruffa](https://www.linkedin.com/in/oscarbaruffa/) | [Dealing with difficult stakeholders](https://oscarbaruffa.com/difficult/) | Presents some approaches for handling difficult stakeholders that you need buy-in from, including things like take the path of least resistance, work towards getting stakeholders to think it's their idea, have lots of private conversations beforehand, and more.  | 2022
+[Lucas F Costa](https://www.linkedin.com/in/lucasfdacosta/?locale=en_US) | [Useful engineering metrics and why velocity is not one of them](https://lucasfcosta.com/2022/08/31/engineering-metrics.html) | Covers four useful metrics that are easily attainable from JIRA that aren't easily gameable and can help you debug process problems: arrival rate, work in progress, throughput, and cycle time. | 2022
 
 
 ## Code Review
