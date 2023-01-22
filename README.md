@@ -16,7 +16,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (11)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (19)
 - [Management Skills](#management-skills) (6)
-- [Data Platforms](#data-platforms) (11)
+- [Data Platforms](#data-platforms) (12)
 - [Data Governance](#data-governance) (5)
 
 
@@ -213,6 +213,7 @@ Author | Title | One-sentence summary | Year
 [Lak Lakshmanan](https://www.linkedin.com/in/valliappalakshmanan/) | [No, you don’t need MLOps: Keep It Simple: the complexity of full MLOps is rarely needed](https://lakshmanok.medium.com/no-you-dont-need-mlops-5e1ce9fdaa4b) | In counterpoint to all the buzz, the author warns that MLOps is no panacea, and can often automate away important detail or cause a large amount of technical debt that ultimately doesn't save time. | 2022
 [Nishith Agarwal](https://www.linkedin.com/in/nishith-agarwal-28b63416) | [The Build vs. Buy Guide for the Modern Data Stack](https://www.montecarlodata.com/blog-the-build-vs-buy-guide-for-your-modern-data-stack/) | The author claims that the decision to build vs buy comes down to five main considerations: cost, complexity, expertise, time to value, and competitive advantage. | 2022
 [Dominik Kreuzberger](https://deepai.org/profile/dominik-kreuzberger), [Niklas Kühl](https://dsi.iism.kit.edu/team_kuehl.php), and [Sebastian Hirschl](https://de.linkedin.com/in/sebastian-hirschl-70642270) | [Machine Learning Operations: Overview, Definition, and Architecture](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf) | The authors conducted a literature review and interviews with experts to create an aggregated overview of the necessary principles, components, and roles, as well as the associated architecture and workflows surrounding "MLOps" | 2022
+[Indika Kumara](https://scholar.google.com/citations?user=IfiRc9MAAAAJ&hl=en) et al. | [Requirements and Reference Architecture for MLOps: Insights from Industry](https://www.techrxiv.org/articles/preprint/Requirements_and_Reference_Architecture_for_MLOps_Insights_from_Industry/21397413) | The authors conducted a qualitative analysis of the MLOps field from literature, and bucket their findings into categories like "Infrastructure", "Model Deployment and Serving", "Monitoring and Feedback Loops", and more. | 2022
 
 
 ## Data Governance
@@ -228,7 +229,6 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
-    * https://www.techrxiv.org/articles/preprint/Requirements_and_Reference_Architecture_for_MLOps_Insights_from_Industry/21397413
     * https://medium.com/@koendit/whats-the-big-deal-about-data-products-26ac347b7d7a
     * https://docs.getdbt.com/blog/demystifying-event-streams?utm_source=substack&utm_medium=email
     * https://betterprogramming.pub/architecture-of-modern-startup-abaec235c2eb
