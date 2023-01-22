@@ -109,6 +109,7 @@ Author | Title | One-sentence summary | Year
 [Michelangelo D'Agostino](https://www.linkedin.com/in/michelangelod/), [Katie Malone](https://www.linkedin.com/in/caitlin-malone-46050854/) | [The Care and Feeding of Data Scientists, Chapter 5](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf) | "To Agile or Not to Agile". | 2019
 [Oscar Baruffa](https://www.linkedin.com/in/oscarbaruffa/) | [Dealing with difficult stakeholders](https://oscarbaruffa.com/difficult/) | Presents some approaches for handling difficult stakeholders that you need buy-in from, including things like take the path of least resistance, work towards getting stakeholders to think it's their idea, have lots of private conversations beforehand, and more.  | 2022
 [Lucas F Costa](https://www.linkedin.com/in/lucasfdacosta/?locale=en_US) | [Useful engineering metrics and why velocity is not one of them](https://lucasfcosta.com/2022/08/31/engineering-metrics.html) | Covers four useful metrics that are easily attainable from JIRA that aren't easily gameable and can help you debug process problems: arrival rate, work in progress, throughput, and cycle time. | 2022
+[Leandro Carvalho](https://br.linkedin.com/in/leandroscarvalho?original_referer=) | [Data Product Canvas — A practical framework for building high-performance data products](https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0) | Outlines the "Data Canvas" framework for building new data products, which is divided into 10 blocks (problem, solution, data, hypotheses, actors, actions, KPIs, values, risks and performance/impact), and separated by 3 domain areas: the product vision, the vision of the strategy, and the business vision. | 2022 
 
 
 ## Code Review
@@ -226,8 +227,6 @@ Author | Title | One-sentence summary | Year
 ## TODOs:
 
 * Add the following posts:
-    * https://medium.com/coriers/onboarding-for-data-teams-100e041a012c
-    * https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
     * https://arxiv.org/pdf/2205.02302.pdf
     * https://www.techrxiv.org/articles/preprint/Requirements_and_Reference_Architecture_for_MLOps_Insights_from_Industry/21397413
     * https://medium.com/@koendit/whats-the-big-deal-about-data-products-26ac347b7d7a
