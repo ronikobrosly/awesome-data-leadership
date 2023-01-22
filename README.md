@@ -16,7 +16,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (11)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (19)
 - [Management Skills](#management-skills) (6)
-- [Data Platforms](#data-platforms) (14)
+- [Data Platforms](#data-platforms) (15)
 - [Data Governance](#data-governance) (5)
 
 
@@ -216,6 +216,7 @@ Author | Title | One-sentence summary | Year
 [Indika Kumara](https://scholar.google.com/citations?user=IfiRc9MAAAAJ&hl=en) et al. | [Requirements and Reference Architecture for MLOps: Insights from Industry](https://www.techrxiv.org/articles/preprint/Requirements_and_Reference_Architecture_for_MLOps_Insights_from_Industry/21397413) | The authors conducted a qualitative analysis of the MLOps field from literature, and bucket their findings into categories like "Infrastructure", "Model Deployment and Serving", "Monitoring and Feedback Loops", and more. | 2022
 [Charlie Summers](https://www.linkedin.com/in/charliesummers) | [Demystifying event streams: Transforming events into tables with dbt](https://docs.getdbt.com/blog/demystifying-event-streams) | Provides an overview on how to convert events from an event-driven microservice architecture into relational tables in a warehouse like Snowflake, the advantages of this architecture, and how you might want to structure your event messages. | 2022
 [Dmitry Kruglov](https://medium.com/@kruglov.dmitry) | [The Architecture of a Modern Startup: Hype wave, pragmatic evidence vs the need to move fast](https://betterprogramming.pub/architecture-of-modern-startup-abaec235c2eb) | Probably more relevant for CTO roles, but with interesting nuggets for Heads of Data, this post gives an overview of the various infrastructure and tools used in the modern startup (languages, infrastucture as code, secrets management, databases, etc). | 2022
+[Sam Lafontaine](https://www.linkedin.com/in/samlafontaine/?originalSubdomain=ca) | [How to Build a Modern Data Stack – The Comprehensive Guide](https://weld.app/blog/how-to-build-a-modern-data-stack) | A light overview of the several components that constitute the modern data stack: a data source, data ingestion tools, data storage, data transformations and modeling, data analytics, and data activation (what used to be called "reverse ETL"). | 2021
 
 
 ## Data Governance
