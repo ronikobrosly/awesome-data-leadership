@@ -14,7 +14,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (18)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (11)
-- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (16)
+- [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (17)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (10)
 - [Data Governance](#data-governance) (4)
@@ -182,6 +182,7 @@ Author | Title | One-sentence summary | Year
 [Ron Kohavi, Diane Tang, and Ya Xu](https://experimentguide.com/about/) | [Trustworthy Online Controlled Experiments : A Practical Guide to A/B Testing](https://experimentguide.com/) | A fantastic introductory book on A/B testing for program and feature evaluation; covers methods, interpretation, biases that can arise, and culture around experimentation. | 2020
 W.D. (ryxcommar@gmail.com) | [Caveats and Limitations of A/B Testing at Growth Tech Companies](https://ryxcommar.com/2022/11/07/caveats-and-limitations-of-a-b-testing-at-growth-tech-companies/) | Highlights an issue of A/B tests where over time effect sizes tend to shrink, and growth companies can find themselves in a situation where the statistical power benefits of a growing user base are outweighed by this diminishing returns effect. | 2022
 [Tristan Handy](https://www.linkedin.com/in/tristanhandy/) | [The Startup Founder’s Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1) | Although written in 2017, this article gives a still relevant high-level overview on creating the analytics competency at your org, at different levels of company size. | 2017
+[Rembrand Koning](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=876389) and [Aaron Chatterji](https://www.fuqua.duke.edu/faculty/aaron-chatterji) | [Experimentation and Startup Performance: Evidence from A/B Testing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3454379) | This academic paper provides the first evidence of how digital experimentation affects the performance of a large sample of high-technology startups using data that tracks their growth, technology use, and product launches (they find increased performance on several critical dimensions, including page views and new product features). | 2022
 
 
 ## Management Skills
