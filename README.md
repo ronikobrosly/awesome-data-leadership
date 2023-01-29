@@ -13,7 +13,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Project Management](#project-management) (9)
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (18)
-- [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (11)
+- [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (12)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (19)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (15)
@@ -160,7 +160,7 @@ Author | Title | One-sentence summary | Year
 [Eyal Trabelsi](https://il.linkedin.com/in/eyaltrabelsi) | [How to build TRUST in Machine Learning, the sane way](https://medium.com/bigabids-dataverse/how-to-build-trust-in-machine-learning-the-sane-way-39d879f22e69) | Provides suggestions on how teams can improve trust in ML in their org, including defining metrics up front, following some best practices when developing the model, A/B testing the model upon deployment, and more. | 2022
 [Andrew Lukyanenko](https://www.linkedin.com/in/andlukyane/?originalSubdomain=ru) | [Lessons learned after 10 years in IT: What I have learned from my mistakes and successes](https://artgor.medium.com/lessons-learned-after-10-years-in-it-1489ad39280e) | A senior data scientist gives general DS career (some of which is worth noting as a leader) including topics around interviewing, productivity, communication, time estimation, and more. | 2022
 [Shreya Shankar](https://www.linkedin.com/in/shrshnk/) et al. | [Operationalizing Machine Learning: An Interview Study](https://arxiv.org/pdf/2209.09125v1.pdf) | From the abstract: They conducted interviews with 18 MLEs working across many applications, touching on how `Velocity`, `Validation`, and `Versioning` govern project success (in terms of deployment and long-term maintanence), and they also discuss interviewees’ pain points and anti-patterns. | 2022
-
+[Eugene Yan](https://www.linkedin.com/in/eugeneyan) | [Mechanisms for Effective Machine Learning Projects](https://eugeneyan.com/writing/mechanisms-for-projects/) | The author describes a few process-based techniques for increasing ML project success (e.g. establishing project pilots and copilots, literature reviews, methods reviews, etc). | 2023
 
 ## BI and Analytics Within an Organization
 
