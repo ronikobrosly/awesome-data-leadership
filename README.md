@@ -5,10 +5,10 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 
 # Topics (with # of links)
 
-- [Hiring](#hiring) (15)
+- [Hiring](#hiring) (16)
 - [Culture](#culture) (15)
 - [Impact](#impact) (6)
-- [Strategy](#strategy) (9)
+- [Strategy](#strategy) (10)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (4)
 - [Project Management](#project-management) (9)
 - [Code Review](#code-review) (3)
@@ -17,7 +17,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (19)
 - [Management Skills](#management-skills) (6)
 - [Data Platforms](#data-platforms) (15)
-- [Data Governance](#data-governance) (5)
+- [Data Governance](#data-governance) (6)
 
 
 ## Hiring
@@ -38,6 +38,7 @@ Author | Title | One-sentence summary | Year
 [Dip Ranjan Chatterjee](https://www.linkedin.com/in/dip-chatterjee-13231417) | [The Data Science Interview Book](https://dipranjan.github.io/dsinterviewqns/intro.html) | A very comprehensive set of topics to interview data science candidates with (spans statistics, ML, NLP, etc). | 2022
 [Tristan Handy](https://www.linkedin.com/in/tristanhandy/) | [When to hire a data engineer?](https://www.getdbt.com/data-teams/hiring-data-engineer/) | Article makes the claim that increasingly data analysts and scientists are working on ETL pipelines themselves (with the help of Stitch, Fivetran, dbt, etc.) but data engineers are still essential for: managing core data infrastructure, building and maintaining custom ingestion pipelines, supporting data team resources with design and performance optimization, and building non-SQL transformation pipelines. | 2022
 [Jacob Kaplan-Moss](https://www.linkedin.com/in/jacobian/) | [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) | This post discusses the other side of the hiring table, and gives great questions a candidate for a Director or VP-level engineering leadership role should be asking (though this post could also be helpful to hiring team thinking through the scope of a Director or VP-level role). | 2019
+[Chip Huyen](https://www.linkedin.com/in/chiphuyen/) | [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) | Outlines the resume evaluation process for a small startup looking for data talent and includes topics like looking for examples of persistence, looking for unique perspectives, and looking for metrics around business impact. | 2023
 
 
 ## Culture
@@ -86,6 +87,7 @@ Author | Title | One-sentence summary | Year
 [Leo Polovets](https://www.linkedin.com/in/lpolovets/) | [The Value of Data, Part 3: Data Business Models](https://www.codingvc.com/p/the-value-of-data-part-3-data-business-models) | Final post in this series describes the concept of a "Data Business Model", the reality of how data can be monetized with examples of companies in each scenario. | 2015
 [Emilie Schario](https://www.linkedin.com/in/emilieschario/) and [Taylor A Murphy](https://www.linkedin.com/in/tayloramurphy/) | [Run Your Data Team Like A Product Team](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/) | Service-oriented data teams aren’t effective, and the authors suggest running the data team like a product team is ideal, where you take a more active roll in defining your org's success metrics and push the business forward in a more active way. | 2021
 [Jeremy Salfen](https://www.linkedin.com/in/jsalfen/) | [Building a Data Practice from Scratch](https://locallyoptimistic.com/post/building-a-data-practice/) | Provides a series of suggestions for first data hires at an early stage startup, including the following principles: "don’t worry about making things fancy", "keep an eye on how things will scale, but rein in your impulses to optimize them", and "documentation, transparency, and reproducibility are interrelated and fundamental". | 2021
+[Brittany Bennett](https://www.linkedin.com/in/thebbennett/) | [Roadmapping as a Tool for Data Leaders](https://www.brittanybennett.com/post/roadmapping-as-a-tool-for-data-leaders) | Author describes how to create a roadmap with their data team and how to use it to push for more team resources (includes ideation sessions with sticky notes, voting, generating a timeline, and then ultimately packaging this for the leadership to get the resources). | 2023
 
 
 ## Diversity Equity and Inclusion
@@ -228,12 +230,4 @@ Author | Title | One-sentence summary | Year
 [Ilan Man](https://www.linkedin.com/in/ilanman/) | [People-first Data stacks](https://locallyoptimistic.com/post/people-first-data-stacks/) | Proposes switching from tech- to user-centric data management by i) integrating data into company culture (raising awareness, tracking adoption); ii) making data governance options actionable for stakeholders outside of the data platform and iii) introducing ownership of tests on data quality. | 2022
 [Yali Sassoon](https://uk.linkedin.com/in/yalisassoon) | [Why Data Contracts are Obviously a Good Idea. And why there is so much resistance to this idea from the community around the Modern Data Stack ](https://datacreation.substack.com/p/why-data-contracts-are-obviously) | Briefly describes the importance of data contracts, provides an example of a complaint against contracts, and then how complaints arise because practitioners are stuck in the “data is oil” paradigm i.e. assume that the data is extracted, rather than deliberately creating data. | 2022
 [Crystal Lewis](https://www.linkedin.com/in/crystal-lewis-922b4193/) | [Using a data dictionary as your roadmap to quality data](https://cghlewis.com/blog/data_dictionary/) | A bit more for an academic or research audience, provides a style guide and suggestions on making an effective data dictionary and nomenclature for data models. | 2022
-
-
-
-## Todo:
-
-* https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html
-* https://www.brittanybennett.com/post/roadmapping-as-a-tool-for-data-leaders
-* https://ergestx.substack.com/p/introducing-the-metrics-playbook
-* https://towardsdatascience.com/data-governance-but-make-it-a-team-sport-30dc0164fb7c
+[Maggie Hays](https://www.linkedin.com/in/maggie-hays/) | [Data Governance, but Make It a Team Sport](https://towardsdatascience.com/data-governance-but-make-it-a-team-sport-30dc0164fb7c) | Outlines an iterative framework (with examples) to introduce data governance within an organization (includes identify the chief data problem(s) to solve, set clear goals to resolve these problems, start small before you go big, drive incremental action, and then measure progress and iterate). | 2023
