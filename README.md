@@ -7,7 +7,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 
 - [Hiring](#hiring) (16)
 - [Culture](#culture) (15)
-- [Impact](#impact) (7)
+- [Impact](#impact) (8)
 - [Strategy](#strategy) (10)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (4)
 - [Project Management](#project-management) (9)
@@ -73,6 +73,7 @@ Author | Title | One-sentence summary | Year
 [Sarah Krasnik](https://sarahmk125.medium.com/) | [Choosing a Data Catalog](https://sarahsnewsletter.substack.com/p/choosing-a-data-catalog?s=r) | Although not technically on management, this tackles the critical topic of documentation, dictionaries, knowledge repos and such, which are critically important for a data org. | 2022
 [Chad Sanderson](https://www.linkedin.com/in/chad-sanderson/) | [The Existential Threat of Data Quality: and Why the Modern Data Stack Can't Solve It](https://dataproducts.substack.com/p/the-existential-threat-of-data-quality?s=r&utm_campaign=post&utm_medium=web) | Despite the rapidly-evolving/growing data stack, poor data quality remains an enormous problem; the article breaks it down into "downstream" and "upstream" categories. | 2022
 [Anna Geller](https://www.linkedin.com/in/anna-geller-12a86811a/) | [Should You Measure the Value of a Data Team? What to measure and whether you should](https://medium.com/the-prefect-blog/should-you-measure-the-value-of-a-data-team-95c447f28d4a) | Wonderful discussion of the challenges of measuring a data team's impact, and provides clear examples of good, so-so, and poor metrics for measuring this performance. | 2023
+[Benn Stancil](https://www.linkedin.com/in/benn-stancil/) | [A method for measuring analytical work: Our only job should be to make people more decisive.](https://benn.substack.com/p/method-for-measuring-analytical-work) | Argues that much of the value of an analytics org is difficult to quantify, but perhaps these orgs should be valued (and measured on) their ability to reduce the time it takes to make decisions. | 2021
 
 
 ## Strategy
