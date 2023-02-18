@@ -15,7 +15,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (19)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (12)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (19)
-- [Management Skills](#management-skills) (6)
+- [Management Skills](#management-skills) (7)
 - [Data Platforms](#data-platforms) (16)
 - [Data Governance](#data-governance) (6)
 
@@ -203,6 +203,7 @@ Author | Title | One-sentence summary | Year
 [Alan Johnson](https://www.linkedin.com/in/acjay/) | [11 Principles of Engineering Management](https://acjay.com/2022/03/11/11-principles-of-engineering-management/) | A brief, digestable list of management principles for new engineering managers. | 2022
 [GitLab](gitlab.com) | [Preventing burnout: A manager's toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/) | Provides 12 strategies managers can utilize to support their team and prevent burnout | 2022
 [Tanya Reilly](https://www.linkedin.com/in/tanyareilly/) | [Being glue](https://noidea.dog/glue) | Describes the importance of "glue work" (e.g. noticing when other people in the team are blocked and helping them out, reviewing design documents and noticing what's inconsistent, onboarding the new people and making them productive faster, or improving processes to make customers happy. | 2019
+[Lindy Greer](https://michiganross.umich.edu/faculty-research/faculty/lindy-greer), [Francesca Gino](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=271812), and [Robert I. Sutton](https://www.gsb.stanford.edu/faculty-research/faculty/robert-i-sutton) | [You Need Two Leadership Gears: Know when to take charge and when to get out of the way](https://hbr.org/2023/03/you-need-two-leadership-gears) | Describes how leaders that know when, where, and how to shift gears between a top-down/take charge personas (“exercise authority” mode) and a more “flat” mode (in which the leader levels the hierarchy and shares power) will tend to be more successful, research shows. | 2023
 
 
 ## Data Platforms
@@ -236,3 +237,7 @@ Author | Title | One-sentence summary | Year
 [Yali Sassoon](https://uk.linkedin.com/in/yalisassoon) | [Why Data Contracts are Obviously a Good Idea. And why there is so much resistance to this idea from the community around the Modern Data Stack ](https://datacreation.substack.com/p/why-data-contracts-are-obviously) | Briefly describes the importance of data contracts, provides an example of a complaint against contracts, and then how complaints arise because practitioners are stuck in the “data is oil” paradigm i.e. assume that the data is extracted, rather than deliberately creating data. | 2022
 [Crystal Lewis](https://www.linkedin.com/in/crystal-lewis-922b4193/) | [Using a data dictionary as your roadmap to quality data](https://cghlewis.com/blog/data_dictionary/) | A bit more for an academic or research audience, provides a style guide and suggestions on making an effective data dictionary and nomenclature for data models. | 2022
 [Maggie Hays](https://www.linkedin.com/in/maggie-hays/) | [Data Governance, but Make It a Team Sport](https://towardsdatascience.com/data-governance-but-make-it-a-team-sport-30dc0164fb7c) | Outlines an iterative framework (with examples) to introduce data governance within an organization (includes identify the chief data problem(s) to solve, set clear goals to resolve these problems, start small before you go big, drive incremental action, and then measure progress and iterate). | 2023
+
+
+Todo list:
+* https://entrepreneurshandbook.co/a-behind-the-scenes-look-at-how-postmans-data-team-works-fded0b8bfc64
