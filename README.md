@@ -15,7 +15,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (19)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (12)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (19)
-- [Management Skills](#management-skills) (7)
+- [Management Skills](#management-skills) (8)
 - [Data Platforms](#data-platforms) (16)
 - [Data Governance](#data-governance) (6)
 
@@ -204,6 +204,7 @@ Author | Title | One-sentence summary | Year
 [GitLab](gitlab.com) | [Preventing burnout: A manager's toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/) | Provides 12 strategies managers can utilize to support their team and prevent burnout | 2022
 [Tanya Reilly](https://www.linkedin.com/in/tanyareilly/) | [Being glue](https://noidea.dog/glue) | Describes the importance of "glue work" (e.g. noticing when other people in the team are blocked and helping them out, reviewing design documents and noticing what's inconsistent, onboarding the new people and making them productive faster, or improving processes to make customers happy. | 2019
 [Lindy Greer](https://michiganross.umich.edu/faculty-research/faculty/lindy-greer), [Francesca Gino](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=271812), and [Robert I. Sutton](https://www.gsb.stanford.edu/faculty-research/faculty/robert-i-sutton) | [You Need Two Leadership Gears: Know when to take charge and when to get out of the way](https://hbr.org/2023/03/you-need-two-leadership-gears) | Describes how leaders that know when, where, and how to shift gears between a top-down/take charge personas (“exercise authority” mode) and a more “flat” mode (in which the leader levels the hierarchy and shares power) will tend to be more successful, research shows. | 2023
+[Sarah Drasner](https://www.linkedin.com/in/sarahdrasner) | [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) | Fantastic general engineering management book covering tooics such as career laddering, giving and receiving feedback, setting team culture, and more. | 2022
 
 
 ## Data Platforms
