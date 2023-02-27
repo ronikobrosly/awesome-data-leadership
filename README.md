@@ -243,6 +243,3 @@ Author | Title | One-sentence summary | Year
 [Crystal Lewis](https://www.linkedin.com/in/crystal-lewis-922b4193/) | [Using a data dictionary as your roadmap to quality data](https://cghlewis.com/blog/data_dictionary/) | A bit more for an academic or research audience, provides a style guide and suggestions on making an effective data dictionary and nomenclature for data models. | 2022
 [Maggie Hays](https://www.linkedin.com/in/maggie-hays/) | [Data Governance, but Make It a Team Sport](https://towardsdatascience.com/data-governance-but-make-it-a-team-sport-30dc0164fb7c) | Outlines an iterative framework (with examples) to introduce data governance within an organization (includes identify the chief data problem(s) to solve, set clear goals to resolve these problems, start small before you go big, drive incremental action, and then measure progress and iterate). | 2023
 
-
-Todo list:
-* https://entrepreneurshandbook.co/a-behind-the-scenes-look-at-how-postmans-data-team-works-fded0b8bfc64
