@@ -8,7 +8,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Hiring](#hiring) (16)
 - [Culture](#culture) (15)
 - [Impact](#impact) (8)
-- [Strategy](#strategy) (11)
+- [Strategy](#strategy) (12)
 - [Diversity Equity and Inclusion](#diversity-equity-and-inclusion) (4)
 - [Project Management](#project-management) (9)
 - [Code Review](#code-review) (3)
@@ -91,6 +91,7 @@ Author | Title | One-sentence summary | Year
 [Jeremy Salfen](https://www.linkedin.com/in/jsalfen/) | [Building a Data Practice from Scratch](https://locallyoptimistic.com/post/building-a-data-practice/) | Provides a series of suggestions for first data hires at an early stage startup, including the following principles: "don’t worry about making things fancy", "keep an eye on how things will scale, but rein in your impulses to optimize them", and "documentation, transparency, and reproducibility are interrelated and fundamental". | 2021
 [Brittany Bennett](https://www.linkedin.com/in/thebbennett/) | [Roadmapping as a Tool for Data Leaders](https://www.brittanybennett.com/post/roadmapping-as-a-tool-for-data-leaders) | Author describes how to create a roadmap with their data team and how to use it to push for more team resources (includes ideation sessions with sticky notes, voting, generating a timeline, and then ultimately packaging this for the leadership to get the resources). | 2023
 [Raymond See](https://www.linkedin.com/in/see-raymond) | [Tools and Techniques to Establish Your Data Team Early](https://www.courier.com/blog/data-tool-techniques-startup/) | Provides some tips for early-stage start-ups hoping to develop a data function (e.g. hire a few generalists, bring in the right tools, etc) | 2023
+[Prukalpa Sankar](https://www.linkedin.com/in/prukalpa) | [A Behind-the-Scenes Look at How Postman’s Data Team Works: How Postman’s data team set up better onboarding, infrastructure, and processes while growing 4–5x in one year](https://entrepreneurshandbook.co/a-behind-the-scenes-look-at-how-postmans-data-team-works-fded0b8bfc64) | Describes Postman's data team structure (contains central, embedded, and distributed memebers), how they handle prioritization, sprints, and the like. | 2021
 
 
 ## Diversity Equity and Inclusion
