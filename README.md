@@ -16,7 +16,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (13)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (21)
 - [Management Skills](#management-skills) (8)
-- [Data Platforms](#data-platforms) (16)
+- [Data Platforms](#data-platforms) (17)
 - [Data Governance](#data-governance) (6)
 
 
@@ -231,7 +231,7 @@ Author | Title | One-sentence summary | Year
 [Dmitry Kruglov](https://medium.com/@kruglov.dmitry) | [The Architecture of a Modern Startup: Hype wave, pragmatic evidence vs the need to move fast](https://betterprogramming.pub/architecture-of-modern-startup-abaec235c2eb) | Probably more relevant for CTO roles, but with interesting nuggets for Heads of Data, this post gives an overview of the various infrastructure and tools used in the modern startup (languages, infrastucture as code, secrets management, databases, etc). | 2022
 [Sam Lafontaine](https://www.linkedin.com/in/samlafontaine/?originalSubdomain=ca) | [How to Build a Modern Data Stack – The Comprehensive Guide](https://weld.app/blog/how-to-build-a-modern-data-stack) | A light overview of the several components that constitute the modern data stack: a data source, data ingestion tools, data storage, data transformations and modeling, data analytics, and data activation (what used to be called "reverse ETL"). | 2021
 [Jordan Tigani](https://www.linkedin.com/in/jordantigani) | [Big data is dead](https://motherduck.com/blog/big-data-is-dead/) | Provactive piece that argues that despite the hype of the last 10 years around the coming "big data" wave and the need for big data tooling and infrastructure, only the smallest of fractions of organizations need to concern themselves with this. | 2023
-
+[Benjamin Rogojan](https://www.linkedin.com/in/benjaminrogojan/) | [Why You Should Upgrade Your Data Infrastructure](https://seattledataguy.substack.com/p/why-you-should-upgrade-your-data) | Gives high-level summary of data the several phases of data infrastructure that organizations mature through (from tiny start-up looking at manually-generated spreadsheets to more mature organizations with complex ETL DAGs. | 2023
 
 
 ## Data Governance
