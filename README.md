@@ -5,7 +5,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 
 # Topics (with # of links)
 
-- [Hiring](#hiring) (16)
+- [Hiring](#hiring) (17)
 - [Culture](#culture) (15)
 - [Impact](#impact) (8)
 - [Strategy](#strategy) (12)
@@ -39,6 +39,7 @@ Author | Title | One-sentence summary | Year
 [Tristan Handy](https://www.linkedin.com/in/tristanhandy/) | [When to hire a data engineer?](https://www.getdbt.com/data-teams/hiring-data-engineer/) | Article makes the claim that increasingly data analysts and scientists are working on ETL pipelines themselves (with the help of Stitch, Fivetran, dbt, etc.) but data engineers are still essential for: managing core data infrastructure, building and maintaining custom ingestion pipelines, supporting data team resources with design and performance optimization, and building non-SQL transformation pipelines. | 2022
 [Jacob Kaplan-Moss](https://www.linkedin.com/in/jacobian/) | [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) | This post discusses the other side of the hiring table, and gives great questions a candidate for a Director or VP-level engineering leadership role should be asking (though this post could also be helpful to hiring team thinking through the scope of a Director or VP-level role). | 2019
 [Chip Huyen](https://www.linkedin.com/in/chiphuyen/) | [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) | Outlines the resume evaluation process for a small startup looking for data talent and includes topics like looking for examples of persistence, looking for unique perspectives, and looking for metrics around business impact. | 2023
+[Mikhail Popov](https://people.wikimedia.org/~bearloga/) | [Hiring a data scientist](https://wikimediafoundation.org/news/2017/02/02/hiring-data-scientist/) | A retrospective from the Wikimedia Foundation, of Wikipedia fame, sharing what they learned in the hiring process and how they discovered a better approach to interviewing for their data team. | 2017
 
 
 ## Culture
