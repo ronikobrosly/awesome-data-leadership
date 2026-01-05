@@ -2,7 +2,7 @@
 A curated list of awesome and useful posts, videos, and articles on leading a data, analytics, and AI/ML leadership — focusing on decision-making, org design, governance, and real-world impact. This includes leadership at the middle-management, Director/VP, or C-suite level, for organizations both big and small. A few relevant engineering management articles are sprinkled in. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Last Commit](https://img.shields.io/github/last-commit/ronikobrosly/awesome-data-leadership)
 
 
-🗓️ Actively maintained • Last major update: March 2025  
+🗓️ Actively maintained • Last major update: January 2026  
 ⭐ Star the repo if you find it useful
 PRs welcome — quality > quantity
 
@@ -28,7 +28,8 @@ PRs welcome — quality > quantity
 - [Project Management](#project-management) (9)
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (19)
-- [Agents and LLMs Within an Organization](#agents-and-llms-within-an-organization) (2)
+- [Agents and LLMs Within an Organization](#agents-and-llms-within-an-organization) (5)
+- [Agentic AI and Risks](#agentic-ai-and-risks) (1)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (13)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (21)
 - [Management Skills](#management-skills) (8)
@@ -175,6 +176,15 @@ Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Randy Bean](https://www.linkedin.com/in/randybeannvp/) | [2025 AI and data leadership – Executive benchmark survey leadership, transformation, and innovation in an AI future](https://www.dataiq.global/articles/2025-ai-and-data-leadership/) | summarizes the results of a 2025 executive benchmark survey of senior data and AI leaders, highlighting key trends in how organizations are investing in, adopting, governing, and extracting value from data and AI, as well as the evolving roles, challenges, and impact of data & AI leadership on business transformation. | 2025
 [PyMC Labs](https://www.pymc-labs.com/) | [Synthetic Consumers: The Promise, The Reality, and The Future](https://www.pymc-labs.com/blog-posts/synthetic-consumers) | This white paper equips technical business leaders, consumer insights experts, and data scientists with clear and actionable knowledge about AI-generated personas designed to simulate human consumer behavior. | 2025
+[Forbes Tech Council](https://www.forbes.com/councils/forbestechcouncil/) | [Why 2025 Won’t Be the Year of Agentic AI](https://www.forbes.com/councils/forbestechcouncil/2025/01/29/why-2025-wont-be-the-year-of-agentic-ai/) | A grounded critique of agentic AI hype, explaining why most enterprises lack the operating models, controls, and data maturity required for true autonomy. | 2025
+[CIO Magazine](https://www.cio.com/) | [The One Decision That Sets Agentic AI Leaders Apart](https://www.cio.com/article/4014174/the-one-decision-that-sets-agentic-ai-leaders-apart.html) | Argues that platform and data ownership decisions—not algorithms—are the primary differentiators for organizations realizing value from agentic AI. | 2025
+[California Management Review](https://cmr.berkeley.edu/) | [Cutting Through the AI Hype: What Leaders Need to Know About GenAI ROI](https://cmr.berkeley.edu/2025/06/cutting-through-the-ai-hype-the-facts-leaders-need-to-know-about-genai-adoption-and-return-on-investment/) | Uses empirical research to separate GenAI experimentation from real economic impact, with clear implications for executive investment decisions. | 2025
+
+
+## Agentic AI and Risks
+Author | Title | One-sentence summary | Year
+---|---|---|---
+[Alok Abhishek](https://www.linkedin.com/in/alokabhishek/) | [Data and AI Governance: Promoting Equity, Ethics, and Fairness in LLMs](https://arxiv.org/abs/2508.03970) | Proposes practical governance mechanisms for managing bias, fairness, and accountability across the full lifecycle of enterprise LLM systems. | 2025
 
 
 ## ML and AI Within an Organization
