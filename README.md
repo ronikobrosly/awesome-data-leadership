@@ -1,5 +1,20 @@
 # awesome-data-leadership 
-A curated list of awesome and useful posts, videos, and articles on leading a data team. This includes leadership at the middle-management, Director/VP, or C-suite level, for organizations both big and small. A few relevant engineering management articles are sprinkled in. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of awesome and useful posts, videos, and articles on leading a data, analytics, and AI/ML leadership — focusing on decision-making, org design, governance, and real-world impact. This includes leadership at the middle-management, Director/VP, or C-suite level, for organizations both big and small. A few relevant engineering management articles are sprinkled in. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Last Commit](https://img.shields.io/github/last-commit/ronikobrosly/awesome-data-leadership)
+
+
+🗓️ Actively maintained • Last major update: March 2025  
+⭐ Star the repo if you find it useful
+PRs welcome — quality > quantity
+
+## What this list is
+- High-signal articles, essays, and research on data & AI leadership
+- Focused on strategy, the incorporation of agentic AI and ML, org design, governance, culture, and impact
+- Written for data leaders, execs, and senior ICs
+
+## What this list is not
+- Vendor marketing or product documentation
+- Basic “what is AI/ML/data science” content
+- Tool-specific tutorials
 
 ### Please contribute by opening PRs! ⚡️ 
 
@@ -13,7 +28,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Project Management](#project-management) (9)
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (19)
-- [Agents and LLMs Within an Organization](#agents-and-llms-within-an-organization) (1)
+- [Agents and LLMs Within an Organization](#agents-and-llms-within-an-organization) (2)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (13)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (21)
 - [Management Skills](#management-skills) (8)
@@ -159,8 +174,7 @@ Author | Title | One-sentence summary | Year
 Author | Title | One-sentence summary | Year
 ---|---|---|---
 [Randy Bean](https://www.linkedin.com/in/randybeannvp/) | [2025 AI and data leadership – Executive benchmark survey leadership, transformation, and innovation in an AI future](https://www.dataiq.global/articles/2025-ai-and-data-leadership/) | summarizes the results of a 2025 executive benchmark survey of senior data and AI leaders, highlighting key trends in how organizations are investing in, adopting, governing, and extracting value from data and AI, as well as the evolving roles, challenges, and impact of data & AI leadership on business transformation. | 2025
-[PyMC Labs](https://www.pymc-labs.com/) | [Synthetic Consumers: The Promise, The Reality, and The Future](https://www.pymc-labs.com/blog-posts/synthetic-consumers) | This white paper equips technical business leaders, consumer insights experts, and
-data scientists with clear and actionable knowledge about AI-generated personas designed to simulate human consumer behavior. | 2025
+[PyMC Labs](https://www.pymc-labs.com/) | [Synthetic Consumers: The Promise, The Reality, and The Future](https://www.pymc-labs.com/blog-posts/synthetic-consumers) | This white paper equips technical business leaders, consumer insights experts, and data scientists with clear and actionable knowledge about AI-generated personas designed to simulate human consumer behavior. | 2025
 
 
 ## ML and AI Within an Organization
