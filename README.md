@@ -13,6 +13,7 @@ A curated list of awesome and useful posts, videos, and articles on leading a da
 - [Project Management](#project-management) (9)
 - [Code Review](#code-review) (3)
 - [Organization Structure and Job Titles](#organization-structure-and-job-titles) (19)
+- [Agents and LLMs Within an Organization](#agents-and-llms-within-an-organization) (1)
 - [ML and AI Within an Organization](#ml-and-ai-within-an-organization) (13)
 - [BI and Analytics Within an Organization](#bi-and-analytics-within-an-organization) (21)
 - [Management Skills](#management-skills) (8)
@@ -152,6 +153,14 @@ Author | Title | One-sentence summary | Year
 [Benjamin Rogojan](https://www.linkedin.com/in/benjaminrogojan/) | [Different Types Of "Data Engineering" Teams](https://seattledataguy.substack.com/p/different-types-of-data-engineering) | Post gives nice overview of the various flavors of data engineering roles in organizations (including software engineers, data platform engineers, etc). | 2022
 [Morgan Krey](https://www.linkedin.com/in/morgan-krey/) | [Storytellers and System Builders: A New Way to Think About Data Roles](https://hex.tech/blog/storytellers-and-system-builders/) | There has been a proliferation of "data X" roles (e.g. data engineer, data scientist, data analyst, etc) but the author argues that there are really just two kinds of data practitioners: system builders (your engineers that build pipelines, schedule jobs, stand up APIs, etc.) and storytellers (looking for actionable insights, visualizing data on dashboards, etc). | 2022
 [Mikkel Dengsøe](https://www.linkedin.com/in/mikkeldengsoe/) | [Data team as % of workforce: A deep dive into 100 tech scaleups](https://www.synq.io/blog/data-team-size-at-100-scaleups) | Author analyzed 100 known startups and notes that data team members comprise 1-5% of the company headcount, and this varies industry to industry (details included) | 2023
+
+
+## Agents and LLMs Within an Organization
+Author | Title | One-sentence summary | Year
+---|---|---|---
+[Randy Bean](https://www.linkedin.com/in/randybeannvp/) | [2025 AI and data leadership – Executive benchmark survey leadership, transformation, and innovation in an AI future](https://www.dataiq.global/articles/2025-ai-and-data-leadership/) | summarizes the results of a 2025 executive benchmark survey of senior data and AI leaders, highlighting key trends in how organizations are investing in, adopting, governing, and extracting value from data and AI, as well as the evolving roles, challenges, and impact of data & AI leadership on business transformation. | 2025
+[PyMC Labs](https://www.pymc-labs.com/) | [Synthetic Consumers: The Promise, The Reality, and The Future](https://www.pymc-labs.com/blog-posts/synthetic-consumers) | This white paper equips technical business leaders, consumer insights experts, and
+data scientists with clear and actionable knowledge about AI-generated personas designed to simulate human consumer behavior. | 2025
 
 
 ## ML and AI Within an Organization
